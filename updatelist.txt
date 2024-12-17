@@ -1,0 +1,4 @@
+lorcana	12-16-2024
+
+CardGeneralURLs:
+https://api.lorcana.ravensburger.com/images/en/
