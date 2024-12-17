@@ -53,10 +53,17 @@ with open(output_file, "w", newline='', encoding="utf-8") as f:
 
         if "flavorText" in card.keys():
             Script = card["flavorText"]
+            Script = ''.join(Script.split('\n'))
 
         
         if "subtypes" in card.keys():
-            Classifications  = card["subtypes"]
+            first = 0
+            for type in card["subtypes"]:
+                if first != 0:
+                    Classifications += ", "
+                else:
+                    first = 1
+                Classifications  += type
 
         
         if "abilities" in card.keys():
