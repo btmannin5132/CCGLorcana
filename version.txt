@@ -1,0 +1,8 @@
+<version>
+
+<lastupdateYYMMDD>241217</lastupdateYYMMDD>
+<versionurl>https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/version.txt</versionurl>
+<updateurl>https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/updatelist.txt</updateurl>
+<message>InitialCommit</message>
+
+</version>

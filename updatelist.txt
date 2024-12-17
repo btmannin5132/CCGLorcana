@@ -1,7 +1,9 @@
 lorcana	12-16-2024
 plugins/lorcana/plugininfo.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/plugininfo.txt	167508
-plugins/lorcana/sets/carddata.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/carddata.txt	35189593
-plugins/lorcana/cardback.png	https://github.com/btmannin5132/CCGLorcana/blob/main/cardback.png	-98157
-plugins/lorcana/spawned.png	https://github.com/btmannin5132/CCGLorcana/blob/main/spawned.png	-98157
+plugins/lorcana/version.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/version.txt	29917
+plugins/lorcana/pluginpreferences.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/pluginpreferences.txt	187503
+plugins/lorcana/sets/carddata.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/carddata.txt	7253501
+plugins/lorcana/cardback.png	https://github.com/btmannin5132/CCGLorcana/blob/main/cardback.png?raw=true	-98157
+plugins/lorcana/spawned.png	https://github.com/btmannin5132/CCGLorcana/blob/main/spawned.png?raw=true	-98157
 CardGeneralURLs:
 https://api.lorcana.ravensburger.com/images/en/
