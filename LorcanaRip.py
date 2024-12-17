@@ -66,16 +66,16 @@ with open(output_file, "w", newline='', encoding="utf-8") as f:
                 Classifications  += type
 
         
-        if "abilities" in card.keys():
-            first = 0
-            for ability in card["abilities"]:
-                if first != 0:
-                    Text += "; "
-                else:
-                    first = 1
-                Text += ability["fullText"]
-        else:
-            Text = card["fullText"]
+        # if "abilities" in card.keys():
+        #     first = 0
+        #     for ability in card["abilities"]:
+        #         if first != 0:
+        #             Text += "; "
+        #         else:
+        #             first = 1
+        #         Text += ability["fullText"]
+        # else:
+        Text = card["fullText"]
         Text = ''.join(Text.split('\n'))
 
         if card["type"] == "Character":
