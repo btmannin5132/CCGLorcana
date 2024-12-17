@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>lorcana</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="expansions/3/cards/367x512/7224f997fc148baa0b7f81c1eda6fcc3fd003db0">Della Duck - Unstoppable Mom</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/7224f997fc148baa0b7f81c1eda6fcc3fd003db0">Della Duck - Unstoppable Mom</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/7224f997fc148baa0b7f81c1eda6fcc3fd003db0">Della Duck - Unstoppable Mom</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/524e05dc77239f3a15dab766aaa59a9e432efde7">HeiHei - Accidental Explorer</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/524e05dc77239f3a15dab766aaa59a9e432efde7">HeiHei - Accidental Explorer</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/524e05dc77239f3a15dab766aaa59a9e432efde7">HeiHei - Accidental Explorer</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2">Kakamora - Menacing Sailor</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2">Kakamora - Menacing Sailor</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2">Kakamora - Menacing Sailor</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/e993215bfdaa515f6ea00fafc1918f549119f993">Maui - Soaring Demigod</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/e993215bfdaa515f6ea00fafc1918f549119f993">Maui - Soaring Demigod</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/e993215bfdaa515f6ea00fafc1918f549119f993">Maui - Soaring Demigod</name><set>II</set></card>
+		<card><name id="expansions/1/cards/367x512/683e725c03a87baaad2623231644e944e537acab">Minnie Mouse - Always Classy</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/683e725c03a87baaad2623231644e944e537acab">Minnie Mouse - Always Classy</name><set>TFC</set></card>
+		<card><name id="expansions/3/cards/367x512/683e725c03a87baaad2623231644e944e537acab">Moana - Born Leader</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb">Moana - Undeterred Voyager</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb">Moana - Undeterred Voyager</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb">Moana - Undeterred Voyager</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/40bd001563085fc35165329ea1ff5c5ecbdbbeef">Simba - Scrappy Cub</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/008451a05e1e7aa32c75119df950d405265e0904">Webby Vanderquack - Enthusiastic Duck</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/008451a05e1e7aa32c75119df950d405265e0904">Webby Vanderquack - Enthusiastic Duck</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/008451a05e1e7aa32c75119df950d405265e0904">Webby Vanderquack - Enthusiastic Duck</name><set>II</set></card>
+		<card><name id="expansions/1/cards/367x512/2a7541babb57434e5631ffa2b5639e24f8ce84fc">Dragon Fire</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/2a7541babb57434e5631ffa2b5639e24f8ce84fc">Dragon Fire</name><set>TFC</set></card>
+		<card><name id="expansions/3/cards/367x512/e794a80eb109162d579df51db6d52e223bb0e9be">Voyage</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/e794a80eb109162d579df51db6d52e223bb0e9be">Voyage</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/91dfde1d6e005e422f64a59776234f1f4c80b5e4">Maui&apos;s Fish Hook</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/d30f79cf7fef47bd7a5611719f936539bec0d2e9">Sumerian Talisman</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/d30f79cf7fef47bd7a5611719f936539bec0d2e9">Sumerian Talisman</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/95e815d1541bf6f358cfffbe66ab3af0d0c09d09">Agrabah - Marketplace</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/95e815d1541bf6f358cfffbe66ab3af0d0c09d09">Agrabah - Marketplace</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/95e815d1541bf6f358cfffbe66ab3af0d0c09d09">Agrabah - Marketplace</name><set>II</set></card>
+		<card><name id="expansions/2/cards/367x512/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1">Cogsworth - Talking Clock</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/f47aea8bdcbd1179a1f3d91e6afeeb259488f2d1">Cogsworth - Talking Clock</name><set>RF</set></card>
+		<card><name id="expansions/3/cards/367x512/fa755791d0509bb06ae715a2072de724815ed84d">Dewey - Showy Nephew</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/fa755791d0509bb06ae715a2072de724815ed84d">Dewey - Showy Nephew</name><set>II</set></card>
+		<card><name id="expansions/2/cards/367x512/3fcfb99ec010d4a8ba364f43169465d91ca39ada">Duke Weaselton - Small-Time Crook</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/3fcfb99ec010d4a8ba364f43169465d91ca39ada">Duke Weaselton - Small-Time Crook</name><set>RF</set></card>
+		<card><name id="expansions/3/cards/367x512/c28aca23f1ef3718a464383d925c66842078edaa">Flintheart Glomgold - Lone Cheater</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/c28aca23f1ef3718a464383d925c66842078edaa">Flintheart Glomgold - Lone Cheater</name><set>II</set></card>
+		<card><name id="expansions/1/cards/367x512/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f">Flounder - Voice of Reason</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f">Flounder - Voice of Reason</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f">Flounder - Voice of Reason</name><set>TFC</set></card>
+		<card><name id="expansions/3/cards/367x512/2a2b47bf21a372f267deccbb420567f3d450b3c0">Gramma Tala - Keeper of Ancient Stories</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/2a2b47bf21a372f267deccbb420567f3d450b3c0">Gramma Tala - Keeper of Ancient Stories</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/2a2b47bf21a372f267deccbb420567f3d450b3c0">Gramma Tala - Keeper of Ancient Stories</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/7320828c9153b2a9848d6bc45d3544236b22fc48">Gyro Gearloose - Gadget Whiz</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f">Huey - Savvy Nephew</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/39dfc9ffd3253c48c9af5dd55c4b3e4b4b5e6229">Louie - Chill Nephew</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/39dfc9ffd3253c48c9af5dd55c4b3e4b4b5e6229">Louie - Chill Nephew</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/39dfc9ffd3253c48c9af5dd55c4b3e4b4b5e6229">Louie - Chill Nephew</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/13682ac418603aa0966369d46bbf282f562acf47">Maid Marian - Delightful Dreamer</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/13682ac418603aa0966369d46bbf282f562acf47">Maid Marian - Delightful Dreamer</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/06349be70bd2d5dd98d36b9b8dba0a057500fdac">Scrooge McDuck - Richest Duck in the World</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/9d8974baddfc0e53300829f37e5fc88b0f5ce61b">Scrooge McDuck - Uncle Moneybags</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/9d8974baddfc0e53300829f37e5fc88b0f5ce61b">Scrooge McDuck - Uncle Moneybags</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/708a77db476d737e54b8bf4663fc79b346d696d2">Vault Door</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/708a77db476d737e54b8bf4663fc79b346d696d2">Vault Door</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/717b2f3d8816830549097908c134e1729c516542">Motunui - Island Paradise</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/717b2f3d8816830549097908c134e1729c516542">Motunui - Island Paradise</name><set>II</set></card>
+	</superzone>
+</deck>

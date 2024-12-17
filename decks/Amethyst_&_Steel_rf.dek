@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>lorcana</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="expansions/2/cards/367x512/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083">Chip the Teacup - Gentle Soul</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083">Chip the Teacup - Gentle Soul</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/cb7a1d775e800fd1ee4049f7dca9e041eb9ba083">Chip the Teacup - Gentle Soul</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8">Dr. Facilier - Savvy Opportunist</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8">Dr. Facilier - Savvy Opportunist</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/0286dd552c9bea9a69ecb3759e7b94777635514b">HeiHei - Persistent Presence</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/0286dd552c9bea9a69ecb3759e7b94777635514b">HeiHei - Persistent Presence</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/0286dd552c9bea9a69ecb3759e7b94777635514b">HeiHei - Persistent Presence</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/fb644351560d8296fe6da332236b1f8d61b2828a">Kuzco - Wanted Llama</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/fb644351560d8296fe6da332236b1f8d61b2828a">Kuzco - Wanted Llama</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/fb644351560d8296fe6da332236b1f8d61b2828a">Kuzco - Wanted Llama</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/fe2ef495a1152561572949784c16bf23abb28057">Madam Mim - Fox</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/2e01e17467891f7c933dbaa00e1459d23db3fe4f">Madam Mim - Snake</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/2e01e17467891f7c933dbaa00e1459d23db3fe4f">Madam Mim - Snake</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/2e01e17467891f7c933dbaa00e1459d23db3fe4f">Madam Mim - Snake</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/e1822db470e60d090affd0956d743cb0e7cdf113">Merlin - Crab</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/e1822db470e60d090affd0956d743cb0e7cdf113">Merlin - Crab</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/b7eb6c689c037217079766fdb77c3bac3e51cb4c">Merlin - Goat</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/b7eb6c689c037217079766fdb77c3bac3e51cb4c">Merlin - Goat</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/b7eb6c689c037217079766fdb77c3bac3e51cb4c">Merlin - Goat</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/a9334987ece78b6fe8bf130ef00b74847c1d3da6">Merlin - Rabbit</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/c5b76da3e608d34edb07244cd9b875ee86906328">Merlin - Shapeshifter</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/80e28a51cbc26fa4bd34938c5e593b36146f5e0c">Merlin - Squirrel</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/80e28a51cbc26fa4bd34938c5e593b36146f5e0c">Merlin - Squirrel</name><set>RF</set></card>
+		<card><name id="expansions/1/cards/367x512/a17554a0d2b15a664c0e73900184544f19e70227">Freeze</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/a17554a0d2b15a664c0e73900184544f19e70227">Freeze</name><set>TFC</set></card>
+		<card><name id="expansions/2/cards/367x512/a17554a0d2b15a664c0e73900184544f19e70227">I&apos;m Stuck!</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/a17554a0d2b15a664c0e73900184544f19e70227">I&apos;m Stuck!</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/94940e534aedd3f6d9bb77c6322f6641dbb7432a">Beast - Forbidding Recluse</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/94940e534aedd3f6d9bb77c6322f6641dbb7432a">Beast - Forbidding Recluse</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/d094700e379f0fb3b543e25c77f8e4b3e068f057">Benja - Guardian of the Dragon Gem</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/d094700e379f0fb3b543e25c77f8e4b3e068f057">Benja - Guardian of the Dragon Gem</name><set>RF</set></card>
+		<card><name id="promos/1/cards/367x512/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b">Cinderella - Knight in Training</name><set>RF</set></card>
+		<card><name id="promos/1/cards/367x512/fa35e192121eabf3dabf9f5ea6abdbcbc107ac3b">Cinderella - Knight in Training</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/9e44d2771c052d44058245eda6cb334689ca78cc">Eli La Bouff - Big Daddy</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/9e44d2771c052d44058245eda6cb334689ca78cc">Eli La Bouff - Big Daddy</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/58f0744907ea8bd8e0f51e568f1536289ceb40a5">Hercules - Hero in Training</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/58f0744907ea8bd8e0f51e568f1536289ceb40a5">Hercules - Hero in Training</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/cfa2ed2aac6d61f44ca9cba73e1e8946b7cd7d22">Kronk - Junior Chipmunk</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/87d538ef1c1db71603e60f278446c86470162380">Lawrence - Jealous Manservant</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/87d538ef1c1db71603e60f278446c86470162380">Lawrence - Jealous Manservant</name><set>RF</set></card>
+		<card><name id="expansions/1/cards/367x512/bcf814ab41506290ab1b8158ebda6ee61b4bb579">Lilo - Galactic Hero</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/bcf814ab41506290ab1b8158ebda6ee61b4bb579">Lilo - Galactic Hero</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/bcf814ab41506290ab1b8158ebda6ee61b4bb579">Lilo - Galactic Hero</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/f67462663a512121ffada791890b558ee8b38773">Prince Eric - Dashing and Brave</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/f67462663a512121ffada791890b558ee8b38773">Prince Eric - Dashing and Brave</name><set>TFC</set></card>
+		<card><name id="expansions/2/cards/367x512/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c">Prince Naveen - Penniless Royal</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c">Prince Naveen - Penniless Royal</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/2fcc820fc1d95b1e8a3a219c7e3689bb8d65042c">Prince Naveen - Penniless Royal</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/2a79f14120945873482b7823caabe2fcde848722">The Huntsman - Reluctant Enforcer</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/752ae7bdbb96bf25280b55990570beabf2048ce0">The Prince - Never Gives Up</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/752ae7bdbb96bf25280b55990570beabf2048ce0">The Prince - Never Gives Up</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771">Tiana - Celebrating Princess</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/61188f24396807ba7ca38919a158766de935852e">Tiana - Diligent Waitress</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/61188f24396807ba7ca38919a158766de935852e">Tiana - Diligent Waitress</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/61188f24396807ba7ca38919a158766de935852e">Tiana - Diligent Waitress</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/1e7b95c5614637fdcde70eb7f2d109134c95c6bf">Last Cannon</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/1e7b95c5614637fdcde70eb7f2d109134c95c6bf">Last Cannon</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/a165fbd61c277745f187eaac7182d9c05d0d1171">Mouse Armor</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/a165fbd61c277745f187eaac7182d9c05d0d1171">Mouse Armor</name><set>RF</set></card>
+	</superzone>
+</deck>

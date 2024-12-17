@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>lorcana</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="expansions/2/cards/367x512/356a192b7913b04c54574d18c28d46e6395428ab">Bashful - Hopeless Romantic</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/356a192b7913b04c54574d18c28d46e6395428ab">Bashful - Hopeless Romantic</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/da4b9237bacccdf19c0760cab7aec4a8359010b0">Christopher Robin - Adventurer</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4">Doc - Leader of the Seven Dwarfs</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/ac3478d69a3c81fa62e60f5c3696165a4e5e6ac4">Doc - Leader of the Seven Dwarfs</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/c1dfd96eea8cc2b62785275bca38ac261256e278">Dopey - Always Playful</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/c1dfd96eea8cc2b62785275bca38ac261256e278">Dopey - Always Playful</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f">Gaston - Baritone Bully</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f">Gaston - Baritone Bully</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f">Gaston - Baritone Bully</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/0ade7c2cf97f75d009975f4d720d1fa6c19f4897">Grand Duke - Advisor to the King</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/b1d5781111d84f7b3fe45a0852e59758cd7a87e5">Grumpy - Bad-Tempered</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/b1d5781111d84f7b3fe45a0852e59758cd7a87e5">Grumpy - Bad-Tempered</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/b1d5781111d84f7b3fe45a0852e59758cd7a87e5">Grumpy - Bad-Tempered</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/17ba0791499db908433b80f37c5fbc89b870084b">Happy - Good-Natured</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/17ba0791499db908433b80f37c5fbc89b870084b">Happy - Good-Natured</name><set>RF</set></card>
+		<card><name id="expansions/1/cards/367x512/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f">LeFou - Bumbler</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/fe5dbbcea5ce7e2988b8c69bcfdfde8904aabc1f">LeFou - Bumbler</name><set>TFC</set></card>
+		<card><name id="expansions/2/cards/367x512/472b07b9fcf2c2451e8781e944bf5f77cd8457c8">Sleepy - Nodding Off</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/472b07b9fcf2c2451e8781e944bf5f77cd8457c8">Sleepy - Nodding Off</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/472b07b9fcf2c2451e8781e944bf5f77cd8457c8">Sleepy - Nodding Off</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/12c6fc06c99a462375eeb3f43dfd832b08ca9e17">Sneezy - Very Allergic</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/12c6fc06c99a462375eeb3f43dfd832b08ca9e17">Sneezy - Very Allergic</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/12c6fc06c99a462375eeb3f43dfd832b08ca9e17">Sneezy - Very Allergic</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/d435a6cdd786300dff204ee7c2ef942d3e9034e2">Snow White - Lost in the Forest</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/d435a6cdd786300dff204ee7c2ef942d3e9034e2">Snow White - Lost in the Forest</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/887309d048beef83ad3eabf2a79a64a389ab1c9f">The Queen - Commanding Presence</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/bc33ea4e26e5e1af1408321416956113a4658763">The Queen - Regal Monarch</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/bc33ea4e26e5e1af1408321416956113a4658763">The Queen - Regal Monarch</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/bc33ea4e26e5e1af1408321416956113a4658763">The Queen - Regal Monarch</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/22d200f8670dbdb3e253a90eee5098477c95c23d">Painting the Roses Red</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/22d200f8670dbdb3e253a90eee5098477c95c23d">Painting the Roses Red</name><set>RF</set></card>
+		<card><name id="expansions/1/cards/367x512/c9ca442765657fc90e9e779c34d0d2259d2c3c5b">Belle - Inventive Engineer</name><set>TFC</set></card>
+		<card><name id="expansions/2/cards/367x512/7320828c9153b2a9848d6bc45d3544236b22fc48">Cruella De Vil - Fashionable Cruiser</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/7320828c9153b2a9848d6bc45d3544236b22fc48">Cruella De Vil - Fashionable Cruiser</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/7320828c9153b2a9848d6bc45d3544236b22fc48">Cruella De Vil - Fashionable Cruiser</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/b3c0730cf3f50613e40561e67c871fdb92820cf9">Gaston - Intellectual Powerhouse</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/39dfc9ffd3253c48c9af5dd55c4b3e4b4b5e6229">Hiram Flaversham - Toymaker</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/ac2646028f5b8b9bbf7a967f4ac71b8866135211">Judy Hopps - Optimistic Officer</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/ac2646028f5b8b9bbf7a967f4ac71b8866135211">Judy Hopps - Optimistic Officer</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/6052521b7625e31d4ee9cc706732484fcf850877">Owl - Logical Lecturer</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/6052521b7625e31d4ee9cc706732484fcf850877">Owl - Logical Lecturer</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/6052521b7625e31d4ee9cc706732484fcf850877">Owl - Logical Lecturer</name><set>RF</set></card>
+		<card><name id="expansions/1/cards/367x512/6052521b7625e31d4ee9cc706732484fcf850877">Philoctetes - Trainer of Heroes</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/6052521b7625e31d4ee9cc706732484fcf850877">Philoctetes - Trainer of Heroes</name><set>TFC</set></card>
+		<card><name id="expansions/2/cards/367x512/be057d4ca44c10a0fc1dfcffd99cce1490291dc7">The Nokk - Water Spirit</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/be057d4ca44c10a0fc1dfcffd99cce1490291dc7">The Nokk - Water Spirit</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/be057d4ca44c10a0fc1dfcffd99cce1490291dc7">The Nokk - Water Spirit</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/0159a99ed28b0581890608d24ada9decc4874197">Winnie the Pooh - Having a Think</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/fd93751649ac3ea8f8772ba49c8c1fe068002835">Four Dozen Eggs</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/fd93751649ac3ea8f8772ba49c8c1fe068002835">Four Dozen Eggs</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/a929eb33e338738d2a91e955ce7623764480253c">Launch</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/a929eb33e338738d2a91e955ce7623764480253c">Launch</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/69e56976fc9bee70c1d2eaa85c0c8dea9f722a2f">Fang Crossbow</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/69e56976fc9bee70c1d2eaa85c0c8dea9f722a2f">Fang Crossbow</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/708a77db476d737e54b8bf4663fc79b346d696d2">Gumbo Pot</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/708a77db476d737e54b8bf4663fc79b346d696d2">Gumbo Pot</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/2659fc519890c924f82b4475ddd71b058178d02b">Pawpsicle</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/2659fc519890c924f82b4475ddd71b058178d02b">Pawpsicle</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/2659fc519890c924f82b4475ddd71b058178d02b">Pawpsicle</name><set>RF</set></card>
+	</superzone>
+</deck>

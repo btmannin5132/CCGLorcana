@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>lorcana</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="expansions/1/cards/367x512/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f">Flounder - Voice of Reason</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/50336bc687eb161ee9fb0ddb8cf2b7e65bad865f">Flounder - Voice of Reason</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/d094700e379f0fb3b543e25c77f8e4b3e068f057">Captain Hook - Forceful Duelist</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/d094700e379f0fb3b543e25c77f8e4b3e068f057">Captain Hook - Forceful Duelist</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/d094700e379f0fb3b543e25c77f8e4b3e068f057">Captain Hook - Forceful Duelist</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/9e44d2771c052d44058245eda6cb334689ca78cc">Goons - Maleficent&apos;s Underlings</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/9e44d2771c052d44058245eda6cb334689ca78cc">Goons - Maleficent&apos;s Underlings</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/c28aca23f1ef3718a464383d925c66842078edaa">Aurora - Regal Princess</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/c28aca23f1ef3718a464383d925c66842078edaa">Aurora - Regal Princess</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/c28aca23f1ef3718a464383d925c66842078edaa">Aurora - Regal Princess</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/3fcfb99ec010d4a8ba364f43169465d91ca39ada">Gramma Tala - Storyteller</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/3fcfb99ec010d4a8ba364f43169465d91ca39ada">Gramma Tala - Storyteller</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/3fcfb99ec010d4a8ba364f43169465d91ca39ada">Gramma Tala - Storyteller</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/f67462663a512121ffada791890b558ee8b38773">Prince Eric - Dashing and Brave</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/f67462663a512121ffada791890b558ee8b38773">Prince Eric - Dashing and Brave</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/536fb6934062440c464ca2eef82b0be8e6b36cc8">Jasmine - Disguised</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/536fb6934062440c464ca2eef82b0be8e6b36cc8">Jasmine - Disguised</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/06349be70bd2d5dd98d36b9b8dba0a057500fdac">Mickey Mouse - Detective</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/06349be70bd2d5dd98d36b9b8dba0a057500fdac">Mickey Mouse - Detective</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/06349be70bd2d5dd98d36b9b8dba0a057500fdac">Mickey Mouse - Detective</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02">Hercules - True Hero</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/aee544ceddfe7ab69a02f82bdf8ce6ea3862ff02">Hercules - True Hero</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/58f0744907ea8bd8e0f51e568f1536289ceb40a5">Kristoff - Official Ice Master</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/58f0744907ea8bd8e0f51e568f1536289ceb40a5">Kristoff - Official Ice Master</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9">Aurora - Briar Rose</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9">Aurora - Briar Rose</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9">Aurora - Briar Rose</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/13682ac418603aa0966369d46bbf282f562acf47">Maleficent - Sinister Visitor</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/13682ac418603aa0966369d46bbf282f562acf47">Maleficent - Sinister Visitor</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/13682ac418603aa0966369d46bbf282f562acf47">Maleficent - Sinister Visitor</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/fa755791d0509bb06ae715a2072de724815ed84d">Aurora - Dreaming Guardian</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/b16a457a3302d7c1f4563df2ffc96dccf3779af7">Maleficent - Uninvited</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/c1aa04bf421e5b38c3d18933e9994d3f289def65">Beast - Hardheaded</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/c1aa04bf421e5b38c3d18933e9994d3f289def65">Beast - Hardheaded</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/3a2dc677d8e85ac856541744e288d504882feb36">Simba - Rightful Heir</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/3a2dc677d8e85ac856541744e288d504882feb36">Simba - Rightful Heir</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/9d8974baddfc0e53300829f37e5fc88b0f5ce61b">Mufasa - King of the Pride Lands</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/9d8974baddfc0e53300829f37e5fc88b0f5ce61b">Mufasa - King of the Pride Lands</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/a3d12597f93e80f7f6a229cebb1c3e10d4f34ec3">Scar - Mastermind</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/e54183e2a040e6c09e61eb22d542e3d57074b351">Simba - Returned King</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/cfa2ed2aac6d61f44ca9cba73e1e8946b7cd7d22">Maui - Demigod</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/0159a99ed28b0581890608d24ada9decc4874197">Develop Your Brain</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/0159a99ed28b0581890608d24ada9decc4874197">Develop Your Brain</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/0159a99ed28b0581890608d24ada9decc4874197">Develop Your Brain</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/61188f24396807ba7ca38919a158766de935852e">Fire the Cannons!</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/61188f24396807ba7ca38919a158766de935852e">Fire the Cannons!</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/61188f24396807ba7ca38919a158766de935852e">Fire the Cannons!</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/2952aeca0fe15cf310ede96c437acb94b2b208f1">Ransack</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/2952aeca0fe15cf310ede96c437acb94b2b208f1">Ransack</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/9f9af029585ba014e07cd3910ca976cf56160616">Smash</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/9f9af029585ba014e07cd3910ca976cf56160616">Smash</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/a929eb33e338738d2a91e955ce7623764480253c">One Jump Ahead</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/a929eb33e338738d2a91e955ce7623764480253c">One Jump Ahead</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/c837307a9a2ad4d08ca61a4f1bd848ba3d6890fc">Grab Your Sword</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/2659fc519890c924f82b4475ddd71b058178d02b">Magic Golden Flower</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/2659fc519890c924f82b4475ddd71b058178d02b">Magic Golden Flower</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/69e56976fc9bee70c1d2eaa85c0c8dea9f722a2f">Coconut Basket</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/69e56976fc9bee70c1d2eaa85c0c8dea9f722a2f">Coconut Basket</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/69e56976fc9bee70c1d2eaa85c0c8dea9f722a2f">Coconut Basket</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/69e56976fc9bee70c1d2eaa85c0c8dea9f722a2f">Coconut Basket</name><set>TFC</set></card>
+	</superzone>
+</deck>
