@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>lorcana</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="expansions/5/cards/367x512/fc074d501302eb2b93e2554793fcaf50b3bf7291">The Nokk - Mythical Spirit</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/fc074d501302eb2b93e2554793fcaf50b3bf7291">The Nokk - Mythical Spirit</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/ca3512f4dfa95a03169c5a670a4c91a19b3077b4">Archimedes - Exasperated Owl</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/ca3512f4dfa95a03169c5a670a4c91a19b3077b4">Archimedes - Exasperated Owl</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/af3e133428b9e25c55bc59fe534248e6a0c0f17b">Bruni - Fire Salamander</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/af3e133428b9e25c55bc59fe534248e6a0c0f17b">Bruni - Fire Salamander</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/761f22b2c1593d0bb87e0b606f990ba4974706de">Earth Giant - Living Mountain</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/761f22b2c1593d0bb87e0b606f990ba4974706de">Earth Giant - Living Mountain</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/92cfceb39d57d914ed8b14d0e37643de0797ae56">Gale - Wind Spirit</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/92cfceb39d57d914ed8b14d0e37643de0797ae56">Gale - Wind Spirit</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/fe2ef495a1152561572949784c16bf23abb28057">Anna - Mystical Majesty</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/827bfc458708f0b442009c9c9836f7e4b65557fb">Archimedes - Electrified Owl</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/827bfc458708f0b442009c9c9836f7e4b65557fb">Archimedes - Electrified Owl</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/64e095fe763fc62418378753f9402623bea9e227">Elsa - The Fifth Spirit</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/e1822db470e60d090affd0956d743cb0e7cdf113">Olaf - Happy Passenger</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/80e28a51cbc26fa4bd34938c5e593b36146f5e0c">Maleficent - Vengeful Sorceress</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/80e28a51cbc26fa4bd34938c5e593b36146f5e0c">Maleficent - Vengeful Sorceress</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/54ceb91256e8190e474aa752a6e0650a2df5ba37">Anna - Eager Acolyte</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/54ceb91256e8190e474aa752a6e0650a2df5ba37">Anna - Eager Acolyte</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/54ceb91256e8190e474aa752a6e0650a2df5ba37">Anna - Eager Acolyte</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/9109c85a45b703f87f1413a405549a2cea9ab556">King of Hearts - Monarch of Wonderland</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/9109c85a45b703f87f1413a405549a2cea9ab556">King of Hearts - Monarch of Wonderland</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab">Hypnotic Strength</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab">Hypnotic Strength</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/5a5b0f9b7d3f8fc84c3cef8fd8efaaa6c70d75ab">Hypnotic Strength</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/135debd4837026bf06c7bfc5d1e0c6a31611af1d">Finders Keepers</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/135debd4837026bf06c7bfc5d1e0c6a31611af1d">Finders Keepers</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/c66c65175fecc3103b3b587be9b5b230889c8628">Retrosphere</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/c66c65175fecc3103b3b587be9b5b230889c8628">Retrosphere</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/b4c96d80854dd27e76d8cc9e21960eebda52e962">The Library - A Gift for Belle</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/b4c96d80854dd27e76d8cc9e21960eebda52e962">The Library - A Gift for Belle</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/934385f53d1bd0c1b8493e44d0dfd4c8e88a04bb">Taffyta Muttonfudge - Ruthless Rival</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/934385f53d1bd0c1b8493e44d0dfd4c8e88a04bb">Taffyta Muttonfudge - Ruthless Rival</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03">Wreck-It Ralph - Demolition Dude</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/7224f997fc148baa0b7f81c1eda6fcc3fd003db0">Turbo - Royal Hack</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/7224f997fc148baa0b7f81c1eda6fcc3fd003db0">Turbo - Royal Hack</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/17503a6b2326f09fbc4e3a7c03874c7333002038">Rancis Fluggerbutter - Chocolate Charger</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/17503a6b2326f09fbc4e3a7c03874c7333002038">Rancis Fluggerbutter - Chocolate Charger</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/5e796e48332af4142b10ca0f86e65d9bfdb05884">Snowanna Rainbeau - Cool Competitor</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/5e796e48332af4142b10ca0f86e65d9bfdb05884">Snowanna Rainbeau - Cool Competitor</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2">Daisy Duck - Spotless Food-Fighter</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2">Daisy Duck - Spotless Food-Fighter</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/601ca99d55f00a2e8e736676b606a4d31d374fdd">Mickey Mouse - Enthusiastic Dancer</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/601ca99d55f00a2e8e736676b606a4d31d374fdd">Mickey Mouse - Enthusiastic Dancer</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/ecb7937db58ec9dea0c47db88463d85e81143032">Taffyta Muttonfudge - Crowd Favorite</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/ecb7937db58ec9dea0c47db88463d85e81143032">Taffyta Muttonfudge - Crowd Favorite</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/ecb7937db58ec9dea0c47db88463d85e81143032">Taffyta Muttonfudge - Crowd Favorite</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb">Taffyta Muttonfudge - Sour Speedster</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb">Taffyta Muttonfudge - Sour Speedster</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/05a8ea5382b9fd885261bb3eed0527d1d3b07262">Donald Duck - Daisy&apos;s Date</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/05a8ea5382b9fd885261bb3eed0527d1d3b07262">Donald Duck - Daisy&apos;s Date</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/f38cfe2e2facbcc742bad63f91ad55637300cb45">Vanellope von Schweetz - Random Roster Racer</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/0ca9277f91e40054767f69afeb0426711ca0fddd">Simba - Adventurous Successor</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/0ca9277f91e40054767f69afeb0426711ca0fddd">Simba - Adventurous Successor</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/0ca9277f91e40054767f69afeb0426711ca0fddd">Simba - Adventurous Successor</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/114d4eefde1dae3983e7a79f04c72feb9a3a7efd">Minnie Mouse - Dazzling Dancer</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/114d4eefde1dae3983e7a79f04c72feb9a3a7efd">Minnie Mouse - Dazzling Dancer</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/2a7541babb57434e5631ffa2b5639e24f8ce84fc">Glimmer vs Glimmer</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/2a7541babb57434e5631ffa2b5639e24f8ce84fc">Glimmer vs Glimmer</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/d30f79cf7fef47bd7a5611719f936539bec0d2e9">The Sword Released</name><set>SS</set></card>
+	</superzone>
+</deck>

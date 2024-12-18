@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>lorcana</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="expansions/5/cards/367x512/a72b20062ec2c47ab2ceb97ac1bee818f8b6c6cb">Robin Hood - Timely Contestant</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/b7103ca278a75cad8f7d065acda0c2e80da0b7dc">Shenzi - Scar&apos;s Accomplice</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/b7103ca278a75cad8f7d065acda0c2e80da0b7dc">Shenzi - Scar&apos;s Accomplice</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/d02560dd9d7db4467627745bd6701e809ffca6e3">Little John - Camp Cook</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/d02560dd9d7db4467627745bd6701e809ffca6e3">Little John - Camp Cook</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/d02560dd9d7db4467627745bd6701e809ffca6e3">Little John - Camp Cook</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/c097638f92de80ba8d6c696b26e6e601a5f61eb7">Zazu - Advisor to Mufasa</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/c097638f92de80ba8d6c696b26e6e601a5f61eb7">Zazu - Advisor to Mufasa</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/35e995c107a71caeb833bb3b79f9f54781b33fa1">Ulf - Mime</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/35e995c107a71caeb833bb3b79f9f54781b33fa1">Ulf - Mime</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/35e995c107a71caeb833bb3b79f9f54781b33fa1">Ulf - Mime</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/1f1362ea41d1bc65be321c0a378a20159f9a26d0">Ed - Laughing Hyena</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/1f1362ea41d1bc65be321c0a378a20159f9a26d0">Ed - Laughing Hyena</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/d321d6f7ccf98b51540ec9d933f20898af3bd71e">Robin Hood - Archery Contestant</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/d321d6f7ccf98b51540ec9d933f20898af3bd71e">Robin Hood - Archery Contestant</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/d321d6f7ccf98b51540ec9d933f20898af3bd71e">Robin Hood - Archery Contestant</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/1d513c0bcbe33b2e7440e5e14d0b22ef95c9d673">Ed - Hysterical Partygoer</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/e62d7f1eb43d87c202d2f164ba61297e71be80f4">Banzai - Taunting Hyena</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/e62d7f1eb43d87c202d2f164ba61297e71be80f4">Banzai - Taunting Hyena</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/e62d7f1eb43d87c202d2f164ba61297e71be80f4">Banzai - Taunting Hyena</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/b37f6ddcefad7e8657837d3177f9ef2462f98acf">Robin Hood - Sneaky Sleuth</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/b37f6ddcefad7e8657837d3177f9ef2462f98acf">Robin Hood - Sneaky Sleuth</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/4cd66dfabbd964f8c6c4414b07cdb45dae692e19">Shenzi - Head Hyena</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/08a35293e09f508494096c1c1b3819edb9df50db">Scar - Vengeful Lion</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/215bb47da8fac3342b858ac3db09b033c6c46e0b">Hypnotic Deduction</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/215bb47da8fac3342b858ac3db09b033c6c46e0b">Hypnotic Deduction</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/215bb47da8fac3342b858ac3db09b033c6c46e0b">Hypnotic Deduction</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/8e63fd3e77796b102589b1ba1e4441c7982e4132">Night Howler Rage</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/8e63fd3e77796b102589b1ba1e4441c7982e4132">Night Howler Rage</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/c8306ae139ac98f432932286151dc0ec55580eca">Tropical Rainforest - Jaguar Lair</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/c8306ae139ac98f432932286151dc0ec55580eca">Tropical Rainforest - Jaguar Lair</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/572e20738130fddc7c389f2ab14f4e4b22a97c39">Simba - Lost Prince</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/572e20738130fddc7c389f2ab14f4e4b22a97c39">Simba - Lost Prince</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/572e20738130fddc7c389f2ab14f4e4b22a97c39">Simba - Lost Prince</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/d094700e379f0fb3b543e25c77f8e4b3e068f057">Rudy - Groove Disrupter</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/d094700e379f0fb3b543e25c77f8e4b3e068f057">Rudy - Groove Disrupter</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3">Royal Guard - Bovine Protector</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3">Royal Guard - Bovine Protector</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/04f1241ed2b1b531c2c853ce1eeff952cd0f40f3">Royal Guard - Bovine Protector</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/26e7458dc56ab2830fadba7bd2c1aa10e981518d">Sleepy - Sluggish Knight</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/26e7458dc56ab2830fadba7bd2c1aa10e981518d">Sleepy - Sluggish Knight</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/25293f2761d658cc70c19515861842d712751bdc">Kronk - Unlicensed Investigator</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/25293f2761d658cc70c19515861842d712751bdc">Kronk - Unlicensed Investigator</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/25293f2761d658cc70c19515861842d712751bdc">Kronk - Unlicensed Investigator</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/9e44d2771c052d44058245eda6cb334689ca78cc">HeiHei - Protective Rooster</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/9e44d2771c052d44058245eda6cb334689ca78cc">HeiHei - Protective Rooster</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/bcf814ab41506290ab1b8158ebda6ee61b4bb579">Yzma - Unjustly Treated</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/cfa2ed2aac6d61f44ca9cba73e1e8946b7cd7d22">Kronk - Head of Security</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/3a2dc677d8e85ac856541744e288d504882feb36">Arthur - Wart</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/3a2dc677d8e85ac856541744e288d504882feb36">Arthur - Wart</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/19a448c01aa2e7d55979473b647e282459995b85">Simba - Son of Mufasa</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/19a448c01aa2e7d55979473b647e282459995b85">Simba - Son of Mufasa</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/752ae7bdbb96bf25280b55990570beabf2048ce0">Pete - Games Referee</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/752ae7bdbb96bf25280b55990570beabf2048ce0">Pete - Games Referee</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/4dea1daedbe9dc1d643b0f0eb8ab57c7d532f771">Tug-of-War</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/61188f24396807ba7ca38919a158766de935852e">When Will My Life Begin?</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/61188f24396807ba7ca38919a158766de935852e">When Will My Life Begin?</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/61188f24396807ba7ca38919a158766de935852e">When Will My Life Begin?</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/2952aeca0fe15cf310ede96c437acb94b2b208f1">Food Fight!</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/2952aeca0fe15cf310ede96c437acb94b2b208f1">Food Fight!</name><set>SS</set></card>
+	</superzone>
+</deck>

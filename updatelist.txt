@@ -1,7 +1,7 @@
-lorcana	12-16-24
+lorcana	12-18-24
 plugins/lorcana/plugininfo.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/plugininfo.txt	167508
-plugins/lorcana/version.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/version.txt	30846
-plugins/lorcana/pluginpreferences.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/pluginpreferences.txt	190190
+plugins/lorcana/version.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/version.txt	30848
+plugins/lorcana/pluginpreferences.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/pluginpreferences.txt	190191
 plugins/lorcana/sets/carddata.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/carddata.txt	30080229
 plugins/lorcana/cardback.png	https://github.com/btmannin5132/CCGLorcana/blob/main/cardback.png?raw=true	-163893
 plugins/lorcana/spawned.png	https://github.com/btmannin5132/CCGLorcana/blob/main/spawned.png?raw=true	-98157
@@ -12,5 +12,11 @@ plugins/lorcana/decks/Emerald_&_Amber_II.dek	https://github.com/btmannin5132/CCG
 plugins/lorcana/decks/Emerald_&_Ruby_tfc.dek	https://github.com/btmannin5132/CCGLorcana/raw/refs/heads/main/decks/Emerald_&_Ruby_tfc.dek	669584
 plugins/lorcana/decks/Ruby_&_Sapphire_II.dek	https://github.com/btmannin5132/CCGLorcana/raw/refs/heads/main/decks/Ruby_&_Sapphire_II.dek	678152
 plugins/lorcana/decks/Steel_&_Sapphire_tfc.dek	https://github.com/btmannin5132/CCGLorcana/raw/refs/heads/main/decks/Steel_&_Sapphire_tfc.dek	659330
+plugins/lorcana/decks/Emerald_&_Sapphire_AS.dek	https://github.com/btmannin5132/CCGLorcana/raw/refs/heads/main/decks/Emerald_&_Sapphire_AS.dek	691995
+plugins/lorcana/decks/Amber_&_Ruby_AS.dek	https://github.com/btmannin5132/CCGLorcana/raw/refs/heads/main/decks/Amber_&_Ruby_AS.dek	685197
+plugins/lorcana/decks/Emerald_&_Steel_SS.dek	https://github.com/btmannin5132/CCGLorcana/raw/refs/heads/main/decks/Emerald_&_Steel_SS.dek	660686
+plugins/lorcana/decks/Amethyst_&_Ruby_SS.dek	https://github.com/btmannin5132/CCGLorcana/raw/refs/heads/main/decks/Amethyst_&_Ruby_SS.dek	692216
+plugins/lorcana/decks/Sapphire_&_Steel_UR.dek	https://github.com/btmannin5132/CCGLorcana/raw/refs/heads/main/decks/Sapphire_&_Steel_UR.dek	664824
+plugins/lorcana/decks/Amber_&_Amethyst_UR.dek	https://github.com/btmannin5132/CCGLorcana/raw/refs/heads/main/decks/Amber_&_Amethyst_UR.dek	662118
 CardGeneralURLs:
 https://api.lorcana.ravensburger.com/images/en/

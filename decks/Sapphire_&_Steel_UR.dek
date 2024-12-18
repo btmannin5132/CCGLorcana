@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>lorcana</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="expansions/4/cards/367x512/e1a864f0b77f6c89794827a9035355dc8d052622">Anna - Braving the Storm</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/e1a864f0b77f6c89794827a9035355dc8d052622">Anna - Braving the Storm</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/e1a864f0b77f6c89794827a9035355dc8d052622">Anna - Braving the Storm</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/56ad4d4deaec98465c419b4a8ea7bfc1ed38c4d9">Anna - True-Hearted</name><set>UR</set></card>
+		<card><name id="expansions/1/cards/367x512/c28aca23f1ef3718a464383d925c66842078edaa">Aurora - Regal Princess</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/c28aca23f1ef3718a464383d925c66842078edaa">Aurora - Regal Princess</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/c28aca23f1ef3718a464383d925c66842078edaa">Aurora - Regal Princess</name><set>TFC</set></card>
+		<card><name id="expansions/4/cards/367x512/c9ca442765657fc90e9e779c34d0d2259d2c3c5b">Aurora - Tranquil Princess</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/c9ca442765657fc90e9e779c34d0d2259d2c3c5b">Aurora - Tranquil Princess</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/c9ca442765657fc90e9e779c34d0d2259d2c3c5b">Aurora - Tranquil Princess</name><set>UR</set></card>
+		<card><name id="expansions/2/cards/367x512/fa755791d0509bb06ae715a2072de724815ed84d">Basil - Of Baker Street</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/fa755791d0509bb06ae715a2072de724815ed84d">Basil - Of Baker Street</name><set>RF</set></card>
+		<card><name id="expansions/4/cards/367x512/7320828c9153b2a9848d6bc45d3544236b22fc48">Flounder - Collector&apos;s Companion</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/7320828c9153b2a9848d6bc45d3544236b22fc48">Flounder - Collector&apos;s Companion</name><set>UR</set></card>
+		<card><name id="expansions/1/cards/367x512/06349be70bd2d5dd98d36b9b8dba0a057500fdac">Mickey Mouse - Detective</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/06349be70bd2d5dd98d36b9b8dba0a057500fdac">Mickey Mouse - Detective</name><set>TFC</set></card>
+		<card><name id="expansions/4/cards/367x512/b16a457a3302d7c1f4563df2ffc96dccf3779af7">Pascal - Inquisitive Pet</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/b16a457a3302d7c1f4563df2ffc96dccf3779af7">Pascal - Inquisitive Pet</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/ac2646028f5b8b9bbf7a967f4ac71b8866135211">Prince Phillip - Gallant Defender</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/a6f16ab483da9847d431a822e6c85e144dc54f30">Rapunzel - Appreciative Artist</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/9d8974baddfc0e53300829f37e5fc88b0f5ce61b">Sisu - Wise Friend</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/9d8974baddfc0e53300829f37e5fc88b0f5ce61b">Sisu - Wise Friend</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/097ccd4f03d962011101c1221009e53461a0993f">Transformed Chef - Castle Stove</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/097ccd4f03d962011101c1221009e53461a0993f">Transformed Chef - Castle Stove</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/ae1e7198bc3074ff1b2e9ff520c30bc1898d038e">Dig a Little Deeper</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/ae1e7198bc3074ff1b2e9ff520c30bc1898d038e">Dig a Little Deeper</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/a929eb33e338738d2a91e955ce7623764480253c">Seldom All They Seem</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/a929eb33e338738d2a91e955ce7623764480253c">Seldom All They Seem</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/c1aa04bf421e5b38c3d18933e9994d3f289def65">Aladdin - Resolute Swordsman</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/c1aa04bf421e5b38c3d18933e9994d3f289def65">Aladdin - Resolute Swordsman</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/c1aa04bf421e5b38c3d18933e9994d3f289def65">Aladdin - Resolute Swordsman</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/d094700e379f0fb3b543e25c77f8e4b3e068f057">Ariel - Determined Mermaid</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/d094700e379f0fb3b543e25c77f8e4b3e068f057">Ariel - Determined Mermaid</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/d094700e379f0fb3b543e25c77f8e4b3e068f057">Ariel - Determined Mermaid</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/ec7f1f65067126f3b2bd1037de8a18d0db2ec84b">Hercules - Beloved Hero</name><set>UR</set></card>
+		<card><name id="expansions/3/cards/367x512/26e7458dc56ab2830fadba7bd2c1aa10e981518d">Kida - Royal Warrior</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/26e7458dc56ab2830fadba7bd2c1aa10e981518d">Kida - Royal Warrior</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/26e7458dc56ab2830fadba7bd2c1aa10e981518d">Kida - Royal Warrior</name><set>II</set></card>
+		<card><name id="expansions/4/cards/367x512/58f0744907ea8bd8e0f51e568f1536289ceb40a5">Li Shang - Imperial Captain</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/58f0744907ea8bd8e0f51e568f1536289ceb40a5">Li Shang - Imperial Captain</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/dc685e2c3fd7a3a63944383a54aa249ea27f5fdd">Ling - Imperial Soldier</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/dc685e2c3fd7a3a63944383a54aa249ea27f5fdd">Ling - Imperial Soldier</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/acf1fffc01dc0193aa07d0b1de723c292a2c826d">Mickey Mouse - Standard Bearer</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/acf1fffc01dc0193aa07d0b1de723c292a2c826d">Mickey Mouse - Standard Bearer</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/acf1fffc01dc0193aa07d0b1de723c292a2c826d">Mickey Mouse - Standard Bearer</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/e54183e2a040e6c09e61eb22d542e3d57074b351">Mulan - Armored Fighter</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/e54183e2a040e6c09e61eb22d542e3d57074b351">Mulan - Armored Fighter</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/3a2dc677d8e85ac856541744e288d504882feb36">Philoctetes - No-Nonsense Instructor</name><set>UR</set></card>
+		<card><name id="expansions/3/cards/367x512/e54183e2a040e6c09e61eb22d542e3d57074b351">Robin Hood - Beloved Outlaw</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/e54183e2a040e6c09e61eb22d542e3d57074b351">Robin Hood - Beloved Outlaw</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/e54183e2a040e6c09e61eb22d542e3d57074b351">Robin Hood - Beloved Outlaw</name><set>II</set></card>
+		<card><name id="expansions/4/cards/367x512/61188f24396807ba7ca38919a158766de935852e">One Last Hope</name><set>UR</set></card>
+		<card><name id="expansions/1/cards/367x512/9f9af029585ba014e07cd3910ca976cf56160616">Smash</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/9f9af029585ba014e07cd3910ca976cf56160616">Smash</name><set>TFC</set></card>
+		<card><name id="expansions/4/cards/367x512/7f03f3f2febc46f3fa832d98251b0c98f64bc19b">Imperial Bow</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/7f03f3f2febc46f3fa832d98251b0c98f64bc19b">Imperial Bow</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/7f03f3f2febc46f3fa832d98251b0c98f64bc19b">Imperial Bow</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/1cc641954099c249e0e4ef0402da3fd0364d95f0">Thebes - The Big Olive</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/1cc641954099c249e0e4ef0402da3fd0364d95f0">Thebes - The Big Olive</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/1cc641954099c249e0e4ef0402da3fd0364d95f0">Thebes - The Big Olive</name><set>UR</set></card>
+	</superzone>
+</deck>

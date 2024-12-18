@@ -1,0 +1,65 @@
+<deck version="0.8">
+	<meta>
+		<game>lorcana</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="expansions/4/cards/367x512/356a192b7913b04c54574d18c28d46e6395428ab">Agustin Madrigal - Clumsy Dad</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/356a192b7913b04c54574d18c28d46e6395428ab">Agustin Madrigal - Clumsy Dad</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/356a192b7913b04c54574d18c28d46e6395428ab">Agustin Madrigal - Clumsy Dad</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/77de68daecd823babbb58edb1c8e14d7106e83bb">Ariel - Singing Mermaid</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/bd307a3ec329e10a2cff8fb87480823da114f8f4">Julieta Madrigal - Excellent Cook</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/bd307a3ec329e10a2cff8fb87480823da114f8f4">Julieta Madrigal - Excellent Cook</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/f1abd670358e036c31296e66b3b66c382ac00812">Mickey Mouse - Leader of the Band</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/f1abd670358e036c31296e66b3b66c382ac00812">Mickey Mouse - Leader of the Band</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/9e6a55b6b4563e652a23be9d623ca5055c356940">Mirabel Madrigal - Gift of the Family</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f">Mirabel Madrigal - Prophecy Finder</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f">Mirabel Madrigal - Prophecy Finder</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f">Mirabel Madrigal - Prophecy Finder</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/472b07b9fcf2c2451e8781e944bf5f77cd8457c8">Prince Eric - Seafaring Prince</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/472b07b9fcf2c2451e8781e944bf5f77cd8457c8">Prince Eric - Seafaring Prince</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/472b07b9fcf2c2451e8781e944bf5f77cd8457c8">Prince Eric - Seafaring Prince</name><set>UR</set></card>
+		<card><name id="expansions/3/cards/367x512/472b07b9fcf2c2451e8781e944bf5f77cd8457c8">Rolly - Hungry Pup</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/472b07b9fcf2c2451e8781e944bf5f77cd8457c8">Rolly - Hungry Pup</name><set>II</set></card>
+		<card><name id="expansions/1/cards/367x512/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f">Sebastian - Court Composer</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f">Sebastian - Court Composer</name><set>TFC</set></card>
+		<card><name id="expansions/4/cards/367x512/d435a6cdd786300dff204ee7c2ef942d3e9034e2">Stitch - Alien Dancer</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/d435a6cdd786300dff204ee7c2ef942d3e9034e2">Stitch - Alien Dancer</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/d435a6cdd786300dff204ee7c2ef942d3e9034e2">Stitch - Alien Dancer</name><set>UR</set></card>
+		<card><name id="expansions/3/cards/367x512/887309d048beef83ad3eabf2a79a64a389ab1c9f">Heal What Has Been Hurt</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/887309d048beef83ad3eabf2a79a64a389ab1c9f">Heal What Has Been Hurt</name><set>II</set></card>
+		<card><name id="expansions/1/cards/367x512/0a57cb53ba59c46fc4b692527a38a87c78d84028">Healing Glow</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/0a57cb53ba59c46fc4b692527a38a87c78d84028">Healing Glow</name><set>TFC</set></card>
+		<card><name id="expansions/4/cards/367x512/3be76cc016a8c850661956c5f71d14c621cf6a69">Look at This Family</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/7719a1c782a1ba91c031a682a0a2f8658209adbf">Lost in the Woods</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/7719a1c782a1ba91c031a682a0a2f8658209adbf">Lost in the Woods</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/972a67c48192728a34979d9a35164c1295401b71">Antonio Madrigal - Animal Expert</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/972a67c48192728a34979d9a35164c1295401b71">Antonio Madrigal - Animal Expert</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/972a67c48192728a34979d9a35164c1295401b71">Antonio Madrigal - Animal Expert</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/5b384ce32d8cdef02bc3a139d4cac0a22bb029e8">Bruno Madrigal - Out of the Shadows</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/af3e133428b9e25c55bc59fe534248e6a0c0f17b">Camilo Madrigal - Prankster</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/af3e133428b9e25c55bc59fe534248e6a0c0f17b">Camilo Madrigal - Prankster</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/761f22b2c1593d0bb87e0b606f990ba4974706de">Dolores Madrigal - Easy Listener</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/761f22b2c1593d0bb87e0b606f990ba4974706de">Dolores Madrigal - Easy Listener</name><set>UR</set></card>
+		<card><name id="expansions/1/cards/367x512/af3e133428b9e25c55bc59fe534248e6a0c0f17b">Elsa - Queen Regent</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/af3e133428b9e25c55bc59fe534248e6a0c0f17b">Elsa - Queen Regent</name><set>TFC</set></card>
+		<card><name id="expansions/1/cards/367x512/af3e133428b9e25c55bc59fe534248e6a0c0f17b">Elsa - Queen Regent</name><set>TFC</set></card>
+		<card><name id="expansions/2/cards/367x512/0286dd552c9bea9a69ecb3759e7b94777635514b">HeiHei - Persistent Presence</name><set>RF</set></card>
+		<card><name id="expansions/2/cards/367x512/0286dd552c9bea9a69ecb3759e7b94777635514b">HeiHei - Persistent Presence</name><set>RF</set></card>
+		<card><name id="expansions/4/cards/367x512/fb644351560d8296fe6da332236b1f8d61b2828a">Isabela Madrigal - Golden Child</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/827bfc458708f0b442009c9c9836f7e4b65557fb">Luisa Madrigal - Magically Strong One</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/827bfc458708f0b442009c9c9836f7e4b65557fb">Luisa Madrigal - Magically Strong One</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/b7eb6c689c037217079766fdb77c3bac3e51cb4c">Marshmallow - Terrifying Snowman</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/b7eb6c689c037217079766fdb77c3bac3e51cb4c">Marshmallow - Terrifying Snowman</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/b7eb6c689c037217079766fdb77c3bac3e51cb4c">Marshmallow - Terrifying Snowman</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/c5b76da3e608d34edb07244cd9b875ee86906328">Pepa Madrigal - Weather Maker</name><set>UR</set></card>
+		<card><name id="expansions/3/cards/367x512/9109c85a45b703f87f1413a405549a2cea9ab556">The Queen - Hateful Rival</name><set>II</set></card>
+		<card><name id="expansions/3/cards/367x512/9109c85a45b703f87f1413a405549a2cea9ab556">The Queen - Hateful Rival</name><set>II</set></card>
+		<card><name id="expansions/4/cards/367x512/54ceb91256e8190e474aa752a6e0650a2df5ba37">Tick-Tock - Ever-Present Pursuer</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/54ceb91256e8190e474aa752a6e0650a2df5ba37">Tick-Tock - Ever-Present Pursuer</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/e6c3dd630428fd54834172b8fd2735fed9416da4">Poor Unfortunate Souls</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/e6c3dd630428fd54834172b8fd2735fed9416da4">Poor Unfortunate Souls</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122">Casa Madrigal - Casita</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122">Casa Madrigal - Casita</name><set>UR</set></card>
+		<card><name id="expansions/4/cards/367x512/4d89d294cd4ca9f2ca57dc24a53ffb3ef5303122">Casa Madrigal - Casita</name><set>UR</set></card>
+	</superzone>
+</deck>

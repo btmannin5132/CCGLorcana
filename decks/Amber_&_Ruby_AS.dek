@@ -1,0 +1,67 @@
+<deck version="0.8">
+	<meta>
+		<game>lorcana</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="expansions/5/cards/367x512/0716d9708d321ffb6a00818614779e779925365c">Fix-It Felix, Jr. - Delighted Sightseer</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/0716d9708d321ffb6a00818614779e779925365c">Fix-It Felix, Jr. - Delighted Sightseer</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/7b52009b64fd0a2a49e6d8a939753077792b0554">Fix-It Felix, Jr. - Niceland Steward</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/7b52009b64fd0a2a49e6d8a939753077792b0554">Fix-It Felix, Jr. - Niceland Steward</name><set>SS</set></card>
+		<card><name id="expansions/6/cards/367x512/1b6453892473a467d07372d45eb05abc2031647a">Gopher - Ship&apos;s Carpenter</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/1b6453892473a467d07372d45eb05abc2031647a">Gopher - Ship&apos;s Carpenter</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/f6e1126cedebf23e1463aee73f9df08783640400">Jim Hawkins - Honorable Pirate</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/356a192b7913b04c54574d18c28d46e6395428ab">Owl - Pirate Lookout</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/356a192b7913b04c54574d18c28d46e6395428ab">Owl - Pirate Lookout</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/12c6fc06c99a462375eeb3f43dfd832b08ca9e17">Rabbit - Indignant Pirate</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/12c6fc06c99a462375eeb3f43dfd832b08ca9e17">Rabbit - Indignant Pirate</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/12c6fc06c99a462375eeb3f43dfd832b08ca9e17">Rabbit - Indignant Pirate</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/d435a6cdd786300dff204ee7c2ef942d3e9034e2">Roo - Littlest Pirate</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/d435a6cdd786300dff204ee7c2ef942d3e9034e2">Roo - Littlest Pirate</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/d435a6cdd786300dff204ee7c2ef942d3e9034e2">Roo - Littlest Pirate</name><set>AS</set></card>
+		<card><name id="expansions/5/cards/367x512/1b6453892473a467d07372d45eb05abc2031647a">Rutt - Northern Moose</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/1b6453892473a467d07372d45eb05abc2031647a">Rutt - Northern Moose</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/902ba3cda1883801594b6e1b452790cc53948fda">Tuke - Northern Moose</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/902ba3cda1883801594b6e1b452790cc53948fda">Tuke - Northern Moose</name><set>SS</set></card>
+		<card><name id="expansions/6/cards/367x512/77de68daecd823babbb58edb1c8e14d7106e83bb">Winnie the Pooh - Hunny Pirate</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/0a57cb53ba59c46fc4b692527a38a87c78d84028">I Won&apos;t Give In</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/0a57cb53ba59c46fc4b692527a38a87c78d84028">I Won&apos;t Give In</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/7719a1c782a1ba91c031a682a0a2f8658209adbf">Rescue Rangers Away!</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/7719a1c782a1ba91c031a682a0a2f8658209adbf">Rescue Rangers Away!</name><set>AS</set></card>
+		<card><name id="expansions/5/cards/367x512/cb4e5208b4cd87268b208e49452ed6e89a68e0b8">Amber Chromicon</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/cb4e5208b4cd87268b208e49452ed6e89a68e0b8">Amber Chromicon</name><set>SS</set></card>
+		<card><name id="expansions/6/cards/367x512/cb4e5208b4cd87268b208e49452ed6e89a68e0b8">Pooh Pirate Ship</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59">Hundred Acre Island - Pooh&apos;s Home</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59">Hundred Acre Island - Pooh&apos;s Home</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/7224f997fc148baa0b7f81c1eda6fcc3fd003db0">Jasmine - Rebellious Princess</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/7224f997fc148baa0b7f81c1eda6fcc3fd003db0">Jasmine - Rebellious Princess</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/12f0de3dc76e067d21ed85125716e02e9f1e69f0">John Darling - Sophisticated Swordsman</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/12f0de3dc76e067d21ed85125716e02e9f1e69f0">John Darling - Sophisticated Swordsman</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/12f0de3dc76e067d21ed85125716e02e9f1e69f0">John Darling - Sophisticated Swordsman</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/a1422e6a168630cdd214ac5e31ca01ae1bee8d92">John Silver - Ferocious Friend</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03">Kakamora - Boarding Party</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/78a8efcbaaa1a9a30f9f327aa89d0b6acaaffb03">Kakamora - Boarding Party</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/e114c448f4ab8554ad14eff3d66dfeb3965ce8fc">Kakamora - Pirate Pitcher</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/e114c448f4ab8554ad14eff3d66dfeb3965ce8fc">Kakamora - Pirate Pitcher</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/e114c448f4ab8554ad14eff3d66dfeb3965ce8fc">Kakamora - Pirate Pitcher</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2">Michael Darling - Playful Swordsman</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2">Michael Darling - Playful Swordsman</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2">Michael Darling - Playful Swordsman</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/efa6e44dfa0145249be273ecd84a97f534b04920">Mickey Mouse - Courageous Sailor</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/efa6e44dfa0145249be273ecd84a97f534b04920">Mickey Mouse - Courageous Sailor</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/efa6e44dfa0145249be273ecd84a97f534b04920">Mickey Mouse - Courageous Sailor</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/8bd7954c40c1e59a900f71ea3a266732609915b1">Moana - Kakamora Leader</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb">Moana - Self-Taught Sailor</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/d0e2dbb0bac1917d360aaf52c01a2a4b669e8cdb">Moana - Self-Taught Sailor</name><set>AS</set></card>
+		<card><name id="expansions/5/cards/367x512/e993215bfdaa515f6ea00fafc1918f549119f993">Ratigan - Raging Rat</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/e993215bfdaa515f6ea00fafc1918f549119f993">Ratigan - Raging Rat</name><set>SS</set></card>
+		<card><name id="expansions/5/cards/367x512/e993215bfdaa515f6ea00fafc1918f549119f993">Ratigan - Raging Rat</name><set>SS</set></card>
+		<card><name id="expansions/6/cards/367x512/828f720439cefaeb3acc7a7babce0a28abaa07a3">Tigger - In the Crow&apos;s Nest</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/17503a6b2326f09fbc4e3a7c03874c7333002038">Wendy Darling - Courageous Captain</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e">Lead the Way</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/8b7471f4ae0bf59f5f0a425068c05d96f4801b9e">Lead the Way</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/0bad865a02d82f4970687ffe1b80822b76cc0626">The Islands I Pulled From the Sea</name><set>AS</set></card>
+		<card><name id="expansions/5/cards/367x512/9e071a3a594a8964cbefe784f8a6afaa94c0de17">Ratigan&apos;s Party - Seedy Back Room</name><set>SS</set></card>
+		<card><name id="expansions/6/cards/367x512/9e071a3a594a8964cbefe784f8a6afaa94c0de17">Skull Rock - Isolated Fortress</name><set>AS</set></card>
+		<card><name id="expansions/6/cards/367x512/9e071a3a594a8964cbefe784f8a6afaa94c0de17">Skull Rock - Isolated Fortress</name><set>AS</set></card>
+	</superzone>
+</deck>
