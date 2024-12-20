@@ -34,12 +34,17 @@
 <cardfunction><label>Tap</label><kind>MAKERIGHT90DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
 <cardfunction><label>Untap</label><kind>MAKERIGHT0DEGREES</kind><includeasbutton>yes</includeasbutton></cardfunction>
 <cardfunction><label>Flip over</label><kind>TURNOVER</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Doesn't untap</label><kind>TOGGLETURNALLIMMUNITY</kind><includeasbutton>no</includeasbutton></cardfunction>
 
 <definition><kind>ISYOURFACEDOWNVISIBLE</kind></definition>
 <definition><kind>ISALLOWINGMULTIPLECARDBACKS</kind></definition>
 
+<cardfunction><label>Green +1</label><kind>ADDCOUNTERGREEN</kind><includeasbutton>yes</includeasbutton><PositionX>0.3</PositionX><PositionY>-0.06</PositionY></cardfunction>
+<cardfunction><label>Green -1</label><kind>REMOVECOUNTERGREEN</kind><includeasbutton>yes</includeasbutton></cardfunction>
 <cardfunction><label>Red +1</label><kind>ADDCOUNTERRED</kind><includeasbutton>yes</includeasbutton><PositionX>0.5</PositionX><PositionY>-0.06</PositionY></cardfunction>
 <cardfunction><label>Red -1</label><kind>REMOVECOUNTERRED</kind><includeasbutton>yes</includeasbutton></cardfunction>
+<cardfunction><label>Blue +1</label><kind>ADDCOUNTERBLUE</kind><includeasbutton>yes</includeasbutton><PositionX>0.7</PositionX><PositionY>-0.06</PositionY></cardfunction>
+<cardfunction><label>Blue -1</label><kind>REMOVECOUNTERBLUE</kind><includeasbutton>yes</includeasbutton></cardfunction>
 
 <cardfunction><label>Clear</label><kind>CLEARCARD</kind><includeasbutton>yes</includeasbutton></cardfunction>
 </plugin>
