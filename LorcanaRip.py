@@ -18,12 +18,12 @@ setKeys = sets.keys()
 for key in setKeys:
     thisSet = sets[key]["name"]
     newS = ""
-    # print(thisSet)
+    print(thisSet)
     for c in thisSet:
         if c.isupper():
             newS += c
     setNames.append(newS)
-    # print(newS)
+    #print(newS)
 
 
 headers = ["Name",	"Set", "ImageFile",	"type",	"Rarity",	"Color",	"Cost",	"Inkwell",	"Classifications",	"Strength",	"Willpower","Lore",	"Text"]
