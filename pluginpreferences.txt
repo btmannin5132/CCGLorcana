@@ -1,5 +1,6 @@
 <pluginpreferences>
 
+<lastversionupdate>250601</lastversionupdate>
 <counterstyleimagesizetextoverimage>16</counterstyleimagesizetextoverimage>
 <counterstyleimagesizeimagesonly>25</counterstyleimagesizeimagesonly>
 <recentskins>default</recentskins>
@@ -58,6 +59,5 @@
 <scalefactor>1.000000</scalefactor>
 <zoomfactor>1.000000</zoomfactor>
 <quickzoom>4.000000</quickzoom>
-<tilt>40.000000</tilt>
 
 </pluginpreferences>
