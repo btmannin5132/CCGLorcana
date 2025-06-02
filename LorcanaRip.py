@@ -45,7 +45,13 @@ with open(output_file, "w", newline='', encoding="utf-8") as f:
         else:
             Set = setNames[int(card["setCode"])]
         type = card["type"]
-        ImageFile = card["images"]["full"][47:-4]
+
+        try:
+            ImageFile = card["images"]["thumbnail"][47:-4]
+        except KeyError:
+            print(f"Could not find find thumbnail for {Name}, using full image instead")
+            ImageFile = card["images"]["full"][47:-4]
+
         Rarity = card["rarity"][0:2]
         Cost= card["cost"]
         Color = card["color"]
