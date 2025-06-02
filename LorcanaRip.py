@@ -1,13 +1,26 @@
+"""
+Ben Manning
+Collects card data for Lorcana and sets up formatting needed for LackeyCCG
+lorcana database from https://lorcanajson.org/files/current/en/allCards.json
+
+"""
+import urllib.request
 import json
 import csv
 
 # URL of the Lorcana JSON file
 input_file = "allCards.json" 
+
 output_file = "sets/carddata.txt"
 
-with open(input_file, "r", encoding="utf-8") as f:
-    data = json.load(f)
+# base load with local file just in case
+# with open(input_file, "r", encoding="utf-8") as f:
+#     data = json.load(f)
 
+#link directly with json file instead of downloading the file every time
+#Will take a little longer to run, but probably still less time that resaving the file...
+with urllib.request.urlopen("https://lorcanajson.org/files/current/en/allCards.json") as url:
+    data = json.load(url)
 # print(data)
 
 setNames = [0]
@@ -23,10 +36,11 @@ for key in setKeys:
         if c.isupper():
             newS += c
     setNames.append(newS)
-print(setNames)
+#print(setNames)
 
-
-headers = ["Name",	"Set", "ImageFile",	"type",	"Rarity",	"Color",	"Cost",	"Inkwell",	"Classifications",	"Strength",	"Willpower","Lore",	"Text"]
+#can add more if want in later sets
+#perhaps one for hybrid colors?
+headers = ["Name","Set","ImageFile","type","Rarity","Color","Cost","Inkwell","Classifications","Strength","Willpower","Lore","Text"] 
 
 with open(output_file, "w", newline='', encoding="utf-8") as f:
     writer = csv.writer(f, delimiter='\t')  # Use tab as delimiter for Lackey CCG
@@ -38,6 +52,8 @@ with open(output_file, "w", newline='', encoding="utf-8") as f:
         cardList[card["fullName"]] = {}
         Name = card["fullName"]
         #print(Name)
+
+        #the quests have different formatting for some reason...
         if card["setCode"] == "Q1":
             Set = setNames[11]
         elif card["setCode"] == "Q2":
@@ -46,6 +62,7 @@ with open(output_file, "w", newline='', encoding="utf-8") as f:
             Set = setNames[int(card["setCode"])]
         type = card["type"]
 
+        #not all of the cards have thumbnails listed, hopefully this catches most of them
         try:
             ImageFile = card["images"]["thumbnail"][47:-4]
         except KeyError:
@@ -77,16 +94,6 @@ with open(output_file, "w", newline='', encoding="utf-8") as f:
                     first = 1
                 Classifications  += type
 
-        
-        # if "abilities" in card.keys():
-        #     first = 0
-        #     for ability in card["abilities"]:
-        #         if first != 0:
-        #             Text += "; "
-        #         else:
-        #             first = 1
-        #         Text += ability["fullText"]
-        # else:
         Text = card["fullText"]
         Text = ''.join(Text.split('\n'))
 
