@@ -1,8 +1,8 @@
-lorcana	03-07-25
+lorcana	06-01-25
 plugins/lorcana/plugininfo.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/plugininfo.txt	232695
-plugins/lorcana/version.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/version.txt	31040
+plugins/lorcana/version.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/version.txt	30343
 plugins/lorcana/pluginpreferences.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/pluginpreferences.txt	190190
-plugins/lorcana/sets/carddata.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/carddata.txt	34309381
+plugins/lorcana/sets/carddata.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/sets/carddata.txt	41074726
 plugins/lorcana/cardback.png	https://github.com/btmannin5132/CCGLorcana/blob/main/cardback.png?raw=true	-163893
 plugins/lorcana/spawned.png	https://github.com/btmannin5132/CCGLorcana/blob/main/spawned.png?raw=true	-98157
 plugins/lorcana/decks/Amber_&_Amethyst_tfc.dek	https://github.com/btmannin5132/CCGLorcana/raw/refs/heads/main/decks/Amber_&_Amethyst_tfc.dek	669987

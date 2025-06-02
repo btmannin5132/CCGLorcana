@@ -3,7 +3,7 @@ import csv
 
 # URL of the Lorcana JSON file
 input_file = "allCards.json" 
-output_file = "carddata.txt"
+output_file = "sets/carddata.txt"
 
 with open(input_file, "r", encoding="utf-8") as f:
     data = json.load(f)
@@ -18,12 +18,12 @@ setKeys = sets.keys()
 for key in setKeys:
     thisSet = sets[key]["name"]
     newS = ""
-    print(thisSet)
+    #print(thisSet)
     for c in thisSet:
         if c.isupper():
             newS += c
     setNames.append(newS)
-    #print(newS)
+print(setNames)
 
 
 headers = ["Name",	"Set", "ImageFile",	"type",	"Rarity",	"Color",	"Cost",	"Inkwell",	"Classifications",	"Strength",	"Willpower","Lore",	"Text"]
@@ -37,9 +37,15 @@ with open(output_file, "w", newline='', encoding="utf-8") as f:
     for card in cards:
         cardList[card["fullName"]] = {}
         Name = card["fullName"]
-        Set = setNames[int(card["setCode"])]
+        #print(Name)
+        if card["setCode"] == "Q1":
+            Set = setNames[11]
+        elif card["setCode"] == "Q2":
+            Set = setNames[12]
+        else:
+            Set = setNames[int(card["setCode"])]
         type = card["type"]
-        ImageFile = card["images"]["thumbnail"][47:-4]
+        ImageFile = card["images"]["full"][47:-4]
         Rarity = card["rarity"][0:2]
         Cost= card["cost"]
         Color = card["color"]
@@ -91,6 +97,8 @@ with open(output_file, "w", newline='', encoding="utf-8") as f:
         # print(cardList[card["fullName"]]["name"])
     # Write the row
         writer.writerow([Name,Set,ImageFile,type,Rarity,Color,Cost,Inkwell,Classifications,Strength,Willpower,Lore,Text])
+        
+        
 
 
     
