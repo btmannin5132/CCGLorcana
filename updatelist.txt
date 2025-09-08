@@ -1,6 +1,6 @@
 lorcana	06-01-25
 plugins/lorcana/plugininfo.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/plugininfo.txt	232695
-plugins/lorcana/version.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/version.txt	30343
+plugins/lorcana/version.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/version.txt	29665
 plugins/lorcana/pluginpreferences.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/pluginpreferences.txt	187503
 plugins/lorcana/sets/carddata.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/sets/carddata.txt	43939343
 plugins/lorcana/cardback.png	https://github.com/btmannin5132/CCGLorcana/blob/main/cardback.png?raw=true	-163893
