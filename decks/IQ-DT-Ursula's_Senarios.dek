@@ -1,0 +1,65 @@
+<deck version="0.8">
+	<meta>
+		<game>lorcana</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="quest1/1_dc38c8fa88dbc7a64181b9c1d1ac567a45fb8334">Anna - Ensnared Sister</name><set>IQDT</set></card>
+		<card><name id="quest1/1_dc38c8fa88dbc7a64181b9c1d1ac567a45fb8334">Anna - Ensnared Sister</name><set>IQDT</set></card>
+		<card><name id="quest1/2_08f6eb3c0907eac8ee023345cc7e29f009bf36ec">Bruno Madrigal - Unspeakable Seer</name><set>IQDT</set></card>
+		<card><name id="quest1/2_08f6eb3c0907eac8ee023345cc7e29f009bf36ec">Bruno Madrigal - Unspeakable Seer</name><set>IQDT</set></card>
+		<card><name id="quest1/17_9ff8566ad22f2a61a43021d9489265805f79439f">Capsize</name><set>IQDT</set></card>
+		<card><name id="quest1/17_9ff8566ad22f2a61a43021d9489265805f79439f">Capsize</name><set>IQDT</set></card>
+		<card><name id="quest1/3_4bc243e72b526eebe052b60aca61517a6227a3e1">Captain Hook - Devious Duelist</name><set>IQDT</set></card>
+		<card><name id="quest1/3_4bc243e72b526eebe052b60aca61517a6227a3e1">Captain Hook - Devious Duelist</name><set>IQDT</set></card>
+		<card><name id="quest1/18_5b07dafc3921b0c071236ca545e00eb7d4a053cd">Choppy Waters</name><set>IQDT</set></card>
+		<card><name id="quest1/18_5b07dafc3921b0c071236ca545e00eb7d4a053cd">Choppy Waters</name><set>IQDT</set></card>
+		<card><name id="quest1/19_69f157ba6cd2856e42b357d55f985f99dc81835c">Crushing Wave</name><set>IQDT</set></card>
+		<card><name id="quest1/20_ffeb0a5ed306482caa54fd51858d69a6e47ed5e3">Entangling Magic</name><set>IQDT</set></card>
+		<card><name id="quest1/4_f863f035fb09c87ceaf74661d611680654bef628">Flotsam - Wicked Defender</name><set>IQDT</set></card>
+		<card><name id="quest1/21_fcc7d6c66e16f0915cfdfe57671adb8d9c545224">Fortunate Hit</name><set>IQDT</set></card>
+		<card><name id="quest1/5_2340344fd654b88602b286cbeed8661892f23c17">Gaston - Egotistical Bully</name><set>IQDT</set></card>
+		<card><name id="quest1/6_5269ece9de6f48f0404d67713a83f10c03359d0e">HeiHei - Peckish Pal</name><set>IQDT</set></card>
+		<card><name id="quest1/6_5269ece9de6f48f0404d67713a83f10c03359d0e">HeiHei - Peckish Pal</name><set>IQDT</set></card>
+		<card><name id="quest1/7_a7b59c48d54c1d4455677107037f7dfe3b5b7473">Hercules - Manipulated Hero</name><set>IQDT</set></card>
+		<card><name id="quest1/8_d5bf787e98bbccae0c5cf692387f0531ffb19fef">Jafar - Double-Crossing Vizier</name><set>IQDT</set></card>
+		<card><name id="quest1/9_a7d816bacdd2e7038c53a62da180b4afd8b7c608">Jetsam - Wicked Whisperer</name><set>IQDT</set></card>
+		<card><name id="quest1/22_d9a270cca91307dc672574f26a12cd8f2acb7731">Lash Out</name><set>IQDT</set></card>
+		<card><name id="quest1/22_d9a270cca91307dc672574f26a12cd8f2acb7731">Lash Out</name><set>IQDT</set></card>
+		<card><name id="quest1/23_5aaf02b950b711152adee7c440e567f3222e844b">Lightning Storm</name><set>IQDT</set></card>
+		<card><name id="quest1/10_be3d21f86eb8b7950795220e3ab2992449fab0df">Mad Hatter - Sinister Host</name><set>IQDT</set></card>
+		<card><name id="quest1/10_be3d21f86eb8b7950795220e3ab2992449fab0df">Mad Hatter - Sinister Host</name><set>IQDT</set></card>
+		<card><name id="quest1/11_490337bb41efff8167a313cb921c75204074c012">Magica De Spell - Shadowy Sorceress</name><set>IQDT</set></card>
+		<card><name id="quest1/11_490337bb41efff8167a313cb921c75204074c012">Magica De Spell - Shadowy Sorceress</name><set>IQDT</set></card>
+		<card><name id="quest1/12_6660ace9d2dcc5d293bf2cb7f016dcb2bb411eb3">Minnie Mouse - Wild-Eyed Diver</name><set>IQDT</set></card>
+		<card><name id="quest1/13_94a8724077f040932937206371270586bfefecec">Prince Eric - Grim Groom</name><set>IQDT</set></card>
+		<card><name id="quest1/13_94a8724077f040932937206371270586bfefecec">Prince Eric - Grim Groom</name><set>IQDT</set></card>
+		<card><name id="quest1/24_6d3d86d76e2ef3dc652ebff200617ce555bf1981">Riptide</name><set>IQDT</set></card>
+		<card><name id="quest1/14_38096544a678e5b2a0daaaff5dba3aa4b4095783">Shark - Toothy Terror</name><set>IQDT</set></card>
+		<card><name id="quest1/14_38096544a678e5b2a0daaaff5dba3aa4b4095783">Shark - Toothy Terror</name><set>IQDT</set></card>
+		<card><name id="quest1/15_e03459d8e1214fa08f7190717a1398ec6cbff499">Tamatoa - Grabby Crab</name><set>IQDT</set></card>
+		<card><name id="quest1/15_e03459d8e1214fa08f7190717a1398ec6cbff499">Tamatoa - Grabby Crab</name><set>IQDT</set></card>
+		<card><name id="quest1/25_dfb617520bcafccc157093d8a623bc3a10821f75">Tentacle Swipe</name><set>IQDT</set></card>
+		<card><name id="quest1/29_e36b563b50d134e4fce953385266c75ea3d15488">The Hexwell Crown</name><set>IQDT</set></card>
+		<card><name id="quest1/16_562ee93fbc88b701fb32a5e428b98432b1fbee7e">Triton&apos;s Daughters - Discordant Chorus</name><set>IQDT</set></card>
+		<card><name id="quest1/16_562ee93fbc88b701fb32a5e428b98432b1fbee7e">Triton&apos;s Daughters - Discordant Chorus</name><set>IQDT</set></card>
+		<card><name id="quest1/16_562ee93fbc88b701fb32a5e428b98432b1fbee7e">Triton&apos;s Daughters - Discordant Chorus</name><set>IQDT</set></card>
+		<card><name id="quest1/16_562ee93fbc88b701fb32a5e428b98432b1fbee7e">Triton&apos;s Daughters - Discordant Chorus</name><set>IQDT</set></card>
+		<card><name id="quest1/26_1ee9fb574154d6d44a00d441a1c033c55d20e9af">Tsunami</name><set>IQDT</set></card>
+		<card><name id="quest1/27_f73231a419632b7235ee2f8e0b0deb8d798ce0d1">Typhoon</name><set>IQDT</set></card>
+		<card><name id="quest1/27_f73231a419632b7235ee2f8e0b0deb8d798ce0d1">Typhoon</name><set>IQDT</set></card>
+		<card><name id="quest1/30_c55b85080cacfecf0e9c246cb5728be5722d90fe">Ursula&apos;s Contract</name><set>IQDT</set></card>
+		<card><name id="quest1/30_c55b85080cacfecf0e9c246cb5728be5722d90fe">Ursula&apos;s Contract</name><set>IQDT</set></card>
+		<card><name id="quest1/30_c55b85080cacfecf0e9c246cb5728be5722d90fe">Ursula&apos;s Contract</name><set>IQDT</set></card>
+		<card><name id="quest1/30_c55b85080cacfecf0e9c246cb5728be5722d90fe">Ursula&apos;s Contract</name><set>IQDT</set></card>
+		<card><name id="quest1/31_779a9bc9bdb122fb1fb3f79b1da125f1ea7ded83">Ursula&apos;s Stolen Trident</name><set>IQDT</set></card>
+		<card><name id="quest1/28_8e7e05812a0023e80d5dc3d3fbbc2465d6d5086f">Whirlpool</name><set>IQDT</set></card>
+	</superzone>
+	<superzone name="Leader">
+	</superzone>
+	<superzone name="Battleground">
+		<card><name id="quest1/22_d9a270cca913072574f26a12cd8f2acb7731">A Dark Realm</name><set>IQDT</set></card>
+		<card><name id="quest1/22_d9a270cca91307d2cd8f2acb7731">Infinite Wrath</name><set>IQDT</set></card>
+		<card><name id="quest1/22_d9a270cca91307dc6726a12cd8f2acb7731">The Encounter</name><set>IQDT</set></card>
+		<card><name id="quest1/22_d9a270cca95742cd8f2acb7731">The Lair</name><set>IQDT</set></card>
+	</superzone>
+</deck>

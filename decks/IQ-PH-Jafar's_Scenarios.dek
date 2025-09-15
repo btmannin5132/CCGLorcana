@@ -1,0 +1,65 @@
+<deck version="0.8">
+	<meta>
+		<game>lorcana</game>
+	</meta>
+	<superzone name="Deck">
+		<card><name id="quest2/15_911880bec6c11fab277aedb5237f0d61a7d3ee56">Abu - Cheeky Phantasm</name><set>IQPH</set></card>
+		<card><name id="quest2/15_911880bec6c11fab277aedb5237f0d61a7d3ee56">Abu - Cheeky Phantasm</name><set>IQPH</set></card>
+		<card><name id="quest2/16_ab5c423516a30e3f113cec0bcaba1135c1a8eb2f">Aladdin - Misleading Phantom</name><set>IQPH</set></card>
+		<card><name id="quest2/16_ab5c423516a30e3f113cec0bcaba1135c1a8eb2f">Aladdin - Misleading Phantom</name><set>IQPH</set></card>
+		<card><name id="quest2/22_203ad880b73ac7e3e4228ae9d092af97d3be42ee">Arcane Quake</name><set>IQPH</set></card>
+		<card><name id="quest2/17_720424347977fe9ed85155afceb42a3042e8ff47">Basil - Shadow Sleuth</name><set>IQPH</set></card>
+		<card><name id="quest2/17_720424347977fe9ed85155afceb42a3042e8ff47">Basil - Shadow Sleuth</name><set>IQPH</set></card>
+		<card><name id="quest2/17_720424347977fe9ed85155afceb42a3042e8ff47">Basil - Shadow Sleuth</name><set>IQPH</set></card>
+		<card><name id="quest2/23_716c1d04212b0164e4543603311c4c9394e2b844">Cataclysmic Cyclone</name><set>IQPH</set></card>
+		<card><name id="quest2/34_da60b79c57369a6bb93ad7c4e99751a5e2116fcb">Clockwork Sawblades - Treacherous Trap</name><set>IQPH</set></card>
+		<card><name id="quest2/28_739b9b8ab1ae6dfbe233fbba4953494d6c36c4db">Cobra Pit - Seething Serpents</name><set>IQPH</set></card>
+		<card><name id="quest2/31_c6d32507b65d185ebbf3e5c495bd1396cdc6a454">Crystal Gate - Unbreakable Boundary</name><set>IQPH</set></card>
+		<card><name id="quest2/32_7d7abbcebe154a729b4bd11b4820c8da2e63b77c">Deepwell Labyrinth - Mystifying Halls</name><set>IQPH</set></card>
+		<card><name id="quest2/19_9124e77e8a6e21e4d666f31fc0f96c2dc066d7e5">Destructive Misstep</name><set>IQPH</set></card>
+		<card><name id="quest2/20_5253ad576b80de42091ed040734e598fb4d48a32">Disastrous Sandstorm</name><set>IQPH</set></card>
+		<card><name id="quest2/29_688fba5f4b61665c2ad19090115c8f595cd39d97">Endless Staircase - Perilous Ascent</name><set>IQPH</set></card>
+		<card><name id="quest2/29_688fba5f4b61665c2ad19090115c8f595cd39d97">Endless Staircase - Perilous Ascent</name><set>IQPH</set></card>
+		<card><name id="quest2/26_4bc07d542651e083d0bfd7e36d9757f40282cd1d">Fiery Basin</name><set>IQPH</set></card>
+		<card><name id="quest2/13_1168435d2bf316a60201f2272d6ba5e97a1e939f">Gargantuan Cobra - Slithering Statue</name><set>IQPH</set></card>
+		<card><name id="quest2/10_b66e1687686b463d866f3d40d41354ee2189a4c0">Gazeem - Ruthless Ruffian</name><set>IQPH</set></card>
+		<card><name id="quest2/7_57adcce4ddf38897c196cc150068c1612790ba02">Genie - Towering Phantasm</name><set>IQPH</set></card>
+		<card><name id="quest2/27_dd232dbaa22b21a7d709b03f8b6f27915471dc14">Giant Hourglass</name><set>IQPH</set></card>
+		<card><name id="quest2/33_bd9f9b6d32fcc12a693b9d78a5a08a7bc5cdb695">Hall of Illusions - Mysterious Chamber</name><set>IQPH</set></card>
+		<card><name id="quest2/11_7a5ea0904442c6256ffb265d397b36a69594c6f5">Iago - Crown Seeker</name><set>IQPH</set></card>
+		<card><name id="quest2/3_ee26590339fe118db35a49d4ca4c25bbda7e643f">Iago - Raucous Lookout</name><set>IQPH</set></card>
+		<card><name id="quest2/3_ee26590339fe118db35a49d4ca4c25bbda7e643f">Iago - Raucous Lookout</name><set>IQPH</set></card>
+		<card><name id="quest2/35_83c4172095f13b3c5d4042b8858d1d001f1f4536">Ink Moat - First Line of Defense</name><set>IQPH</set></card>
+		<card><name id="quest2/6_4171647582036d88c7dc878d9af5e08e9283df37">Jafar - Spectral Sorcerer</name><set>IQPH</set></card>
+		<card><name id="quest2/9_1ce1dc2f2db3e8623433b94999c316d77079ad2b">Jasmine - Ephemeral Princess</name><set>IQPH</set></card>
+		<card><name id="quest2/25_3788e5132cfa4234e84bb488546e7adc1b5f8a80">Mechanical Snake</name><set>IQPH</set></card>
+		<card><name id="quest2/25_3788e5132cfa4234e84bb488546e7adc1b5f8a80">Mechanical Snake</name><set>IQPH</set></card>
+		<card><name id="quest2/25_3788e5132cfa4234e84bb488546e7adc1b5f8a80">Mechanical Snake</name><set>IQPH</set></card>
+		<card><name id="quest2/25_3788e5132cfa4234e84bb488546e7adc1b5f8a80">Mechanical Snake</name><set>IQPH</set></card>
+		<card><name id="quest2/1_1de6c626c3cccfc77d707d203db60c5c25634fe2">Metal Scorpion - Deadly Statue</name><set>IQPH</set></card>
+		<card><name id="quest2/12_81161b22e442385aacf7745990c4c41e8f912353">Monumental Scarab - Skittering Statue</name><set>IQPH</set></card>
+		<card><name id="quest2/2_2d637fd0016b1da716c4346fd40a5ef72c018390">Palace Guard - Crown Hunter</name><set>IQPH</set></card>
+		<card><name id="quest2/2_2d637fd0016b1da716c4346fd40a5ef72c018390">Palace Guard - Crown Hunter</name><set>IQPH</set></card>
+		<card><name id="quest2/2_2d637fd0016b1da716c4346fd40a5ef72c018390">Palace Guard - Crown Hunter</name><set>IQPH</set></card>
+		<card><name id="quest2/4_0ba5120df330dfbfa35a129685eab7042b3b07ca">Razoul - Unyielding Guard</name><set>IQPH</set></card>
+		<card><name id="quest2/4_0ba5120df330dfbfa35a129685eab7042b3b07ca">Razoul - Unyielding Guard</name><set>IQPH</set></card>
+		<card><name id="quest2/30_9b2c30a0d98bba2d4bfb335e5f1c9ec602009785">Royal Armory - Heavily Guarded</name><set>IQPH</set></card>
+		<card><name id="quest2/18_c387bfbf35d83258b97ca23611861090c265338a">Sandblast</name><set>IQPH</set></card>
+		<card><name id="quest2/18_c387bfbf35d83258b97ca23611861090c265338a">Sandblast</name><set>IQPH</set></card>
+		<card><name id="quest2/24_a2ff6a25459007141eb92778ec2107e111789096">Sand Wave</name><set>IQPH</set></card>
+		<card><name id="quest2/21_568aefa2140c1f05af3c3412800691da783b782c">Sudden Power</name><set>IQPH</set></card>
+		<card><name id="quest2/8_4d58870726c29e92597fa9f682dfc78a80a2fd87">The Sultan - Spectral Ruler</name><set>IQPH</set></card>
+		<card><name id="quest2/14_6784ec2d9666635bea23099726b6bda4a60c880f">Tiger Behemoth - Hulking Statue</name><set>IQPH</set></card>
+		<card><name id="quest2/5_55f291a28d24b8c2097d4397f55c80bb8b4a6108">Treasure Guardian - Illusionary Protector</name><set>IQPH</set></card>
+		<card><name id="quest2/5_55f291a28d24b8c2097d4397f55c80bb8b4a6108">Treasure Guardian - Illusionary Protector</name><set>IQPH</set></card>
+	</superzone>
+	<superzone name="Leader">
+	</superzone>
+	<superzone name="Battleground">
+		<card><name id="quest2/6_4171647582036ddd9af5e08e9283df37">Full Alert</name><set>IQPH</set></card>
+		<card><name id="quest2/6_4171647582036d88c7d8d9af5e08e9283df37">Jafar&apos;s Throne Room</name><set>IQPH</set></card>
+		<card><name id="quest2/6_4171647582036d88c78d9af5e08e9283df37">Secret Passage</name><set>IQPH</set></card>
+		<card><name id="quest2/6_4171647582036d9af5e08e9283df37">The Crown Chamber</name><set>IQPH</set></card>
+		<card><name id="quest2/6_4171647582036dc9af5e08e9283df37">The Reforged Crown</name><set>IQPH</set></card>
+	</superzone>
+</deck>

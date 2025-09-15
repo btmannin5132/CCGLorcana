@@ -1,5 +1,6 @@
 <plugin>
 <pluginname>lorcana</pluginname>
+
 <playerstat><label>Lore</label></playerstat>
 
 <deckzone>
@@ -7,6 +8,29 @@
 	<shuffle>yes</shuffle>
 	<gamezonetoloadto>Deck</gamezonetoloadto>
 </deckzone>
+
+<deckzone>
+	<label>Leader</label>
+	<shuffle>yes</shuffle>
+	<gamezonetoloadto>Leader</gamezonetoloadto>
+</deckzone>
+
+<deckzone>
+	<label>Sideboard</label>
+	<zonetoloadto>Sideboard</zonetoloadto>
+</deckzone>
+<deckzone>
+	<label>Battleground</label>
+	<shuffle>yes</shuffle>
+	<gamezonetoloadto>Battleground</gamezonetoloadto>
+</deckzone>
+
+<gamezone>
+	<label>Shared</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>no</visibletoothers>
+	<isshared>yes</isshared>
+</gamezone>
 
 <gamezone>
 	<label>Hand</label>
@@ -22,6 +46,17 @@
 
 <gamezone>
 	<label>Discard</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>yes</visibletoothers>
+</gamezone>
+
+<gamezone>
+	<label>Leader</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>yes</visibletoothers>
+</gamezone>
+<gamezone>
+	<label>Battleground</label>
 	<visibletoowner>yes</visibletoowner>
 	<visibletoothers>yes</visibletoothers>
 </gamezone>
