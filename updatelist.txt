@@ -1,8 +1,8 @@
 lorcana	09-15-25
-plugins/lorcana/plugininfo.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/plugininfo.txt	232695
-plugins/lorcana/version.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/version.txt	29665
-plugins/lorcana/pluginpreferences.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/pluginpreferences.txt	187503
-plugins/lorcana/sets/carddata.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/sets/carddata.txt	43939343
+plugins/lorcana/plugininfo.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/plugininfo.txt	300335
+plugins/lorcana/version.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/version.txt	30865
+plugins/lorcana/pluginpreferences.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/pluginpreferences.txt	325684
+plugins/lorcana/sets/carddata.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/sets/carddata.txt	44189771
 plugins/lorcana/cardback.png	https://github.com/btmannin5132/CCGLorcana/blob/main/cardback.png?raw=true	-163893
 plugins/lorcana/spawned.png	https://github.com/btmannin5132/CCGLorcana/blob/main/spawned.png?raw=true	-98157
 plugins/lorcana/decks/Amber_&_Amethyst_tfc.dek	https://github.com/btmannin5132/CCGLorcana/raw/refs/heads/main/decks/Amber_&_Amethyst_tfc.dek	669987
@@ -18,6 +18,7 @@ plugins/lorcana/decks/Emerald_&_Steel_SS.dek	https://github.com/btmannin5132/CCG
 plugins/lorcana/decks/Amethyst_&_Ruby_SS.dek	https://github.com/btmannin5132/CCGLorcana/raw/refs/heads/main/decks/Amethyst_&_Ruby_SS.dek	692216
 plugins/lorcana/decks/Sapphire_&_Steel_UR.dek	https://github.com/btmannin5132/CCGLorcana/raw/refs/heads/main/decks/Sapphire_&_Steel_UR.dek	664824
 plugins/lorcana/decks/Amber_&_Amethyst_UR.dek	https://github.com/btmannin5132/CCGLorcana/raw/refs/heads/main/decks/Amber_&_Amethyst_UR.dek	662118
-plugins/lorcana/decks/IQ-PH-Jafar's_Scenarios.dek	https://github.com/btmannin5132/CCGLorcana/raw/refs/heads/main/decks/IQ-PH-Jafar's_Scenarios.dek	662118
+plugins/lorcana/decks/IQ-PH-Jafar_Scenarios.dek	https://github.com/btmannin5132/CCGLorcana/raw/refs/heads/main/decks/IQ-PH-Jafar_Scenarios.dek	537179
+plugins/lorcana/decks/IQ-DT-Ursula_Senarios.dek	https://github.com/btmannin5132/CCGLorcana/raw/refs/heads/main/decks/IQ-DT-Ursula_Scenarios.dek	526737
 CardGeneralURLs:
 https://api.lorcana.ravensburger.com/images/en/
