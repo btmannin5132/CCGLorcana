@@ -18,5 +18,6 @@ plugins/lorcana/decks/Emerald_&_Steel_SS.dek	https://github.com/btmannin5132/CCG
 plugins/lorcana/decks/Amethyst_&_Ruby_SS.dek	https://github.com/btmannin5132/CCGLorcana/raw/refs/heads/main/decks/Amethyst_&_Ruby_SS.dek	692216
 plugins/lorcana/decks/Sapphire_&_Steel_UR.dek	https://github.com/btmannin5132/CCGLorcana/raw/refs/heads/main/decks/Sapphire_&_Steel_UR.dek	664824
 plugins/lorcana/decks/Amber_&_Amethyst_UR.dek	https://github.com/btmannin5132/CCGLorcana/raw/refs/heads/main/decks/Amber_&_Amethyst_UR.dek	662118
+plugins/lorcana/decks/IQ-PH-Jafar's_Scenarios.dek	https://github.com/btmannin5132/CCGLorcana/raw/refs/heads/main/decks/IQ-PH-Jafar's_Scenarios.dek	662118
 CardGeneralURLs:
 https://api.lorcana.ravensburger.com/images/en/
