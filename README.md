@@ -16,4 +16,4 @@ Main Update list url is https://raw.githubusercontent.com/btmannin5132/CCGLorcan
 Validation Steps:
 9. Close Lackey
 10. Go back to the lackey plugin directory, and DELETE `sets/carddata.txt`, `updatelist.txt` and `version.txt`
-11. 
+11. Update the plugin with the url: `https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/updatelist.txt`.  All of the files should be replaced and updated.
