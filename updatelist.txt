@@ -5,6 +5,7 @@ plugins/lorcana/pluginpreferences.txt	https://raw.githubusercontent.com/btmannin
 plugins/lorcana/sets/carddata.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/sets/carddata.txt	50117339
 plugins/lorcana/cardback.png	https://github.com/btmannin5132/CCGLorcana/blob/main/cardback.png?raw=true	-121225
 plugins/lorcana/spawned.png	https://github.com/btmannin5132/CCGLorcana/blob/main/spawned.png?raw=true	-98157
+plugins/lorcana/packs/packdefinitions1.xml	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/packs/packdefinitions1.xml	2117124
 plugins/lorcana/decks/Amber_&_Amethyst_tfc.dek	https://github.com/btmannin5132/CCGLorcana/raw/refs/heads/main/decks/Amber_&_Amethyst_tfc.dek	669987
 plugins/lorcana/decks/Amber_&_Sapphire_rf.dek	https://github.com/btmannin5132/CCGLorcana/raw/refs/heads/main/decks/Amber_&_Sapphire_rf.dek	660666
 plugins/lorcana/decks/Amethyst_&_Steel_rf.dek	https://github.com/btmannin5132/CCGLorcana/raw/refs/heads/main/decks/Amethyst_&_Steel_rf.dek	656901
