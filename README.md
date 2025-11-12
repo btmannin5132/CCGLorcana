@@ -36,8 +36,7 @@ This is technically labeled for Magic, so don't worry about the valitation steps
 
 #### For selecting cards:
 After a pack is slected, and all players have cards in their hand from a pack:
-All players reveal their deck to themselves (This can be done at any time so players can see the cards they have slected)
-5. Each player moves one card from their hand to their deck
+5. Each player moves one card from their hand to their `sideboard`
 6. Make sure everyone is in their `hand` location
 7. The host then uses `/exchangeclockwise` or `/exchangecounterclockwise` to rotate the hand cards to the next player
 
@@ -45,13 +44,12 @@ Repeat steps 1-7 for as many packs used in the draft.
 
 #### Making a Deck
 After all cards have been moved to the players' decks:
-8. All players move to their `deck` location
-9. All players reveal their deck to themselves (This can be done at any time so players can see the cards they have slected)
-10. Use the command `/copyzonetocardpool` to copy all cards in deck to their card pool in the deck editor
-11. Go over to the `Deck Editor` to make your deck with the provided cards in the card pool
-12. If you every over-select a card, the `verify deck` button on the bottom will turn red, meaning that your deck and the pool do not math.  Selecting the `verify deck` button will remove any cards (or count of cards) to make the deck above compatible with the pool.
-13. After the deck is made, select `Load Entire Deck to You` in the middle of the deck editor.
-14. The deck will be loaded to your deck in the main game area, and you are ready to play your drafted deck!
+8. All players move to their `sideboard` location
+9. Use the command `/copyzonetocardpool` to copy all cards in sideboard to their card pool in the deck editor
+10. Go over to the `Deck Editor` to make your deck with the provided cards in the card pool
+11. If you every over-select a card, the `verify deck` button on the bottom will turn red, meaning that your deck and the pool do not match.  Selecting the `verify deck` button will remove any cards (or count of cards) to make the deck above compatible with the pool.
+12. After the deck is made, select `Load Entire Deck to You` in the middle of the deck editor.
+13. The deck will be loaded to your deck in the main game area, and you are ready to play your drafted deck!
 
 
 

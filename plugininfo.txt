@@ -56,6 +56,11 @@
 	<visibletoothers>yes</visibletoothers>
 </gamezone>
 <gamezone>
+	<label>Sideboard</label>
+	<visibletoowner>yes</visibletoowner>
+	<visibletoothers>no</visibletoothers>
+</gamezone>
+<gamezone>
 	<label>Battleground</label>
 	<visibletoowner>yes</visibletoowner>
 	<visibletoothers>yes</visibletoothers>
