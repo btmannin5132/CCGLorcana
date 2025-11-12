@@ -1,9 +1,9 @@
-lorcana	09-15-25
+lorcana	11-12-2025
 plugins/lorcana/plugininfo.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/plugininfo.txt	300335
-plugins/lorcana/version.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/version.txt	30865
-plugins/lorcana/pluginpreferences.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/pluginpreferences.txt	329991
-plugins/lorcana/sets/carddata.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/sets/carddata.txt	44189771
-plugins/lorcana/cardback.png	https://github.com/btmannin5132/CCGLorcana/blob/main/cardback.png?raw=true	-163893
+plugins/lorcana/version.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/version.txt	31694
+plugins/lorcana/pluginpreferences.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/pluginpreferences.txt	316790
+plugins/lorcana/sets/carddata.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/sets/carddata.txt	50117339
+plugins/lorcana/cardback.png	https://github.com/btmannin5132/CCGLorcana/blob/main/cardback.png?raw=true	-121225
 plugins/lorcana/spawned.png	https://github.com/btmannin5132/CCGLorcana/blob/main/spawned.png?raw=true	-98157
 plugins/lorcana/decks/Amber_&_Amethyst_tfc.dek	https://github.com/btmannin5132/CCGLorcana/raw/refs/heads/main/decks/Amber_&_Amethyst_tfc.dek	669987
 plugins/lorcana/decks/Amber_&_Sapphire_rf.dek	https://github.com/btmannin5132/CCGLorcana/raw/refs/heads/main/decks/Amber_&_Sapphire_rf.dek	660666
