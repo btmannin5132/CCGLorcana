@@ -12,3 +12,8 @@ Main Update list url is https://raw.githubusercontent.com/btmannin5132/CCGLorcan
 6. Move the new `updatelistNEW.txt` back to the git directory and rename back to `updatelist.txt` (No need for the version.txt, nothing got updated in there with the terminal command).
 7. Commit with useful message.
 8. Push to repo
+
+Validation Steps:
+9. Close Lackey
+10. Go back to the lackey plugin directory, and DELETE `sets/carddata.txt`, `updatelist.txt` and `version.txt`
+11. 
