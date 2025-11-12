@@ -67,5 +67,30 @@ After all cards have been moved to the players' decks:
 5. After the deck is made, select `Load Entire Deck to You` in the middle of the deck editor.
 6. The deck will be loaded to your deck in the main game area, and you are ready to play your drafted deck!
 
+## Legal Stuff and Data Sources
+
+This Lackey CCG plugin is an **unofficial, fan-made project** and is provided for free for non-commercial use.
+
+### Data Collection and Sourcing
+
+The data for this plugin is compiled using publicly accessible resources.
+
+* **Card Image Assets:** All card images are not hosted on this repository. They are pulled directly from the public source provided by the official game publisher:
+    * `api.lorcana.ravensburger.com`
+* **Card Data:** The structured card data (text, stats, etc.) is compiled from a third-party project dedicated to data preservation:
+    * `https://lorcanajson.org/files/current/en/allCards.json`
+    * **Disclaimer:** This plugin makes no warranty, express or implied, regarding the accuracy or completeness of the data provided by this third-party source.
+
+### Intellectual Property Disclaimer
+
+* **Copyright and Trademark:** **Disney Lorcana TCG** and all related characters, names, symbols, and intellectual property are trademarks and copyrights of **Ravensburger North America, Inc. and/or The Walt Disney Company**. This plugin is not affiliated with, endorsed by, sponsored by, or approved by Ravensburger or Disney.
+* **Fair Use:** This plugin uses card images and data for the sole purpose of enabling play within the Lackey CCG client, which we believe constitutes **Fair Use** as a non-commercial, transformative, and commentary-based tool. Should any copyright holder object to this use, please contact the repository owner.
+
+### Liability Disclaimer
+
+* **"As Is" Basis:** This plugin is provided **"as is"** without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement.
+* **User Responsibility:** The creator of this plugin is **not responsible** for how users choose to download, install, or utilize this plugin, the Lackey CCG software, or the card assets/data. Users are solely responsible for ensuring their use of this software complies with all applicable laws and terms of service.
+   
+
 
 
