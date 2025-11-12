@@ -1,6 +1,18 @@
-lorcana database from https://lorcanajson.org/files/current/en/allCards.json
+# Disney's Lorcana TCG inside of Lackey CCG
+
+This plugin for Lorcana is to test and play decks inside of Lackey CCG
+
+Lackey can be downloaded for your respective operating system here: https://lackeyccg.com/index.html
+
+After downloading, go to the `plugin` tab on the top and paste the update URL below into the text box and then select `Install or Update from URL!`.
 
 Main Update list url is https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/updatelist.txt
+
+After that, you can play Lorcana!
+
+
+lorcana database from https://lorcanajson.org/files/current/en/allCards.json
+
 
 ## Updating the Plugin
 
