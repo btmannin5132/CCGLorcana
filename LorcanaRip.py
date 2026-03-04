@@ -55,9 +55,9 @@ with open(output_file, "w", newline='', encoding="utf-8") as f:
 
         #the quests have different formatting for some reason...
         if card["setCode"] == "Q1":
-            Set = setNames[12]
+            Set = "IQDT"
         elif card["setCode"] == "Q2":
-            Set = setNames[13]
+            Set = "IQPH"
         else:
             Set = setNames[int(card["setCode"])]
         type = card["type"]
