@@ -1,4 +1,4 @@
-lorcana	11-12-25
+lorcana	03-03-26
 plugins/lorcana/plugininfo.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/plugininfo.txt	312065
 plugins/lorcana/version.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/version.txt	31694
 plugins/lorcana/pluginpreferences.txt	https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/pluginpreferences.txt	316780
