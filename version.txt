@@ -1,8 +1,8 @@
 <version>
 
-<lastupdateYYMMDD>260303</lastupdateYYMMDD>
+<lastupdateYYMMDD>260512</lastupdateYYMMDD>
 <versionurl>https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/version.txt</versionurl>
 <updateurl>https://raw.githubusercontent.com/btmannin5132/CCGLorcana/refs/heads/main/updatelist.txt</updateurl>
-<message>Fix IQ decks</message>
+<message>Add WU</message>
 
 </version>
