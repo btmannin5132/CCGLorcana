@@ -58,6 +58,8 @@ with open(output_file, "w", newline='', encoding="utf-8") as f:
             Set = "IQDT"
         elif card["setCode"] == "Q2":
             Set = "IQPH"
+        elif card["setCode"] == "Q3":
+            Set = "IQTGHR"
         else:
             Set = setNames[int(card["setCode"])]
         type = card["type"]
@@ -251,6 +253,93 @@ with open(output_file, "w", newline='', encoding="utf-8") as f:
     Text = "Play abilities: Lore Cost- Effect: 4- Chosen character gains evasive this turn."
     writer.writerow([Name,Set,ImageFile,type,Rarity,Color,Cost,Inkwell,Classifications,Strength,Willpower,Lore,Text])
   
+    Name = "Entrance Tunnel"
+    Set = "IQTGHR"
+    ImageFile = "quest2/6_4171647582036ddd9af5e08e9283df37"
+    type = "Battleground"
+    Rarity = ""
+    Color = ""
+    Cost = "5"
+    Inkwell = ""
+    Classifications = "Search for Piglet: Encounter 1"
+    Strength = ""
+    Willpower = ""
+    Lore = ""
+    Text = "Growing Threat- At the start of the Vine's turn, it gains 1 lore.  Trapped Glimmer- When the Illumineers complete this encounter, they rescue the character on the back of this card."
+    writer.writerow([Name,Set,ImageFile,type,Rarity,Color,Cost,Inkwell,Classifications,Strength,Willpower,Lore,Text])
+  
+    Name = "Room of Darkness"
+    Set = "IQTGHR"
+    ImageFile = "quest2/6_4171647582036ddd9af5e08e9283df37"
+    type = "Battleground"
+    Rarity = ""
+    Color = ""
+    Cost = "12"
+    Inkwell = ""
+    Classifications = "Search for Piglet: Encounter 2"
+    Strength = ""
+    Willpower = ""
+    Lore = ""
+    Text = "Twist Away- Characters named Vine Tendril gain Evasive.  Trapped Glimmer- When the Illumineers complete this encounter they rescue the character on the back of this card."
+    writer.writerow([Name,Set,ImageFile,type,Rarity,Color,Cost,Inkwell,Classifications,Strength,Willpower,Lore,Text])
+
+    Name = "Vine Pod Chamber"
+    Set = "IQTGHR"
+    ImageFile = "quest2/6_4171647582036ddd9af5e08e9283df37"
+    type = "Battleground"
+    Rarity = ""
+    Color = ""
+    Cost = "20"
+    Inkwell = ""
+    Classifications = "Search for Piglet: Encounter 3"
+    Strength = ""
+    Willpower = ""
+    Lore = ""
+    Text = "Resurgence- At the start of this encounter, shuffle the Vine's discard into its deck.  Rising Threat- When the illumineers complete this encounter, flip this card over and add it to the row."
+    writer.writerow([Name,Set,ImageFile,type,Rarity,Color,Cost,Inkwell,Classifications,Strength,Willpower,Lore,Text])
+
+    Name = "Garden of Hungry Vegetables"
+    Set = "IQTGHR"
+    ImageFile = "quest2/6_4171647582036ddd9af5e08e9283df37"
+    type = "Battleground"
+    Rarity = ""
+    Color = ""
+    Cost = "5"
+    Inkwell = ""
+    Classifications = "The Heart of the Vine: Encounter 4"
+    Strength = ""
+    Willpower = ""
+    Lore = ""
+    Text = "New Growth- At the start of the Vine's turn, it makes a Vine Tendril.  Trapped Glimmer- When the Illumineers complete this encounter, they rescue the character on the back of this card."
+    writer.writerow([Name,Set,ImageFile,type,Rarity,Color,Cost,Inkwell,Classifications,Strength,Willpower,Lore,Text])
+
+    Name = "Staircase of Thorns"
+    Set = "IQTGHR"
+    ImageFile = "quest2/6_4171647582036ddd9af5e08e9283df37"
+    type = "Battleground"
+    Rarity = ""
+    Color = ""
+    Cost = "12"
+    Inkwell = ""
+    Classifications = "The Heart of the Vine: Encounter 5"
+    Strength = ""
+    Willpower = ""
+    Lore = ""
+    Text = "Briars Everywhere- Whenever an Illunineer's character quests, deal 1 damage to them.  This damage can't be reduced by Resist.  Trapped Glimmer- When the Illumineers complete this encounter, they rescue the character on the back of this card."
+    writer.writerow([Name,Set,ImageFile,type,Rarity,Color,Cost,Inkwell,Classifications,Strength,Willpower,Lore,Text])
 
 
-    
+    Name = "Story Star Chamber"
+    Set = "IQTGHR"
+    ImageFile = "quest2/6_4171647582036ddd9af5e08e9283df37"
+    type = "Battleground"
+    Rarity = ""
+    Color = ""
+    Cost = "20"
+    Inkwell = ""
+    Classifications = "The Heart of the Vine: Encounter 6"
+    Strength = ""
+    Willpower = ""
+    Lore = ""
+    Text = "Faltering Hope- EAch of teh Illumineers' characters get -1 Lore.  Ink reserves- The Vine plays cards for free.  Rising Threat- When the Illumineers complete this encounter, flip this card over and add it to the row."
+    writer.writerow([Name,Set,ImageFile,type,Rarity,Color,Cost,Inkwell,Classifications,Strength,Willpower,Lore,Text])
